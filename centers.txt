@@ -1,0 +1,351 @@
+State	Center Label	Select Value
+Alabama	ALAM-TX1 University of South Alabama Medical Center	ALAM-TX1 University of South Alabama Medical Center;ALAM-TX1 University of South Alabama Medical Center;305;TXC;TXC
+Alabama	ALCH-TX1 Children's of Alabama	ALCH-TX1 Children's of Alabama;ALCH-TX1 Children's of Alabama;305;TXC;TXC
+Alabama	ALUA-TX1 University of Alabama Hospital	ALUA-TX1 University of Alabama Hospital;ALUA-TX1 University of Alabama Hospital;305;TXC;TXC
+Alabama	ALVA-TX1 Birmingham VA Medical Center	ALVA-TX1 Birmingham VA Medical Center;ALVA-TX1 Birmingham VA Medical Center;305;TXC;TXC
+Arizona	AZCH-TX1 Phoenix Children's Hospital	AZCH-TX1 Phoenix Children's Hospital;AZCH-TX1 Phoenix Children's Hospital;305;TXC;TXC
+Arizona	AZGS-TX1 Banner-University Medical Center Phoenix	AZGS-TX1 Banner-University Medical Center Phoenix;AZGS-TX1 Banner-University Medical Center Phoenix;305;TXC;TXC
+Arizona	AZHH-TX1 Phoenix Regional Medical Center	AZHH-TX1 Phoenix Regional Medical Center;AZHH-TX1 Phoenix Regional Medical Center;305;TXC;TXC
+Arizona	AZMC-TX1 Mayo Clinic Hospital Arizona	AZMC-TX1 Mayo Clinic Hospital Arizona;AZMC-TX1 Mayo Clinic Hospital Arizona;305;TXC;TXC
+Arizona	AZSJ-TX1 St. Joseph's Hospital and Medical Center	AZSJ-TX1 St. Joseph's Hospital and Medical Center;AZSJ-TX1 St. Joseph's Hospital and Medical Center;305;TXC;TXC
+Arizona	AZSM-TX1 Scottsdale Healthcare Osborn	AZSM-TX1 Scottsdale Healthcare Osborn;AZSM-TX1 Scottsdale Healthcare Osborn;305;TXC;TXC
+Arizona	AZTV-TX1 Veterans Administration Medical Center Tucson	AZTV-TX1 Veterans Administration Medical Center Tucson;AZTV-TX1 Veterans Administration Medical Center Tucson;305;TXC;TXC
+Arizona	AZUA-TX1 Banner University Medical Center-Tucson	AZUA-TX1 Banner University Medical Center-Tucson;AZUA-TX1 Banner University Medical Center-Tucson;305;TXC;TXC
+Arkansas	ARBH-TX1 Baptist Medical Center	ARBH-TX1 Baptist Medical Center;ARBH-TX1 Baptist Medical Center;305;TXC;TXC
+Arkansas	ARCH-TX1 Arkansas Children's Hospital	ARCH-TX1 Arkansas Children's Hospital;ARCH-TX1 Arkansas Children's Hospital;305;TXC;TXC
+Arkansas	ARUA-TX1 UAMS Medical Center	ARUA-TX1 UAMS Medical Center;ARUA-TX1 UAMS Medical Center;305;TXC;TXC
+California	CABE-TX1 Saint Bernardine Medical Center	CABE-TX1 Saint Bernardine Medical Center;CABE-TX1 Saint Bernardine Medical Center;305;TXC;TXC
+California	CABH-TX1 Alta Bates Medical Center	CABH-TX1 Alta Bates Medical Center;CABH-TX1 Alta Bates Medical Center;305;TXC;TXC
+California	CACH-TX1 Rady Children's Hospital and Health Center	CACH-TX1 Rady Children's Hospital and Health Center;CACH-TX1 Rady Children's Hospital and Health Center;305;TXC;TXC
+California	CACL-TX1 Children's Hospital Los Angeles	CACL-TX1 Children's Hospital Los Angeles;CACL-TX1 Children's Hospital Los Angeles;305;TXC;TXC
+California	CACS-TX1 Cedars-Sinai Medical Center	CACS-TX1 Cedars-Sinai Medical Center;CACS-TX1 Cedars-Sinai Medical Center;305;TXC;TXC
+California	CAEM-TX1 Eisenhower Memorial Hospital	CAEM-TX1 Eisenhower Memorial Hospital;CAEM-TX1 Eisenhower Memorial Hospital;305;TXC;TXC
+California	CAGH-TX1 Scripps Green Hospital	CAGH-TX1 Scripps Green Hospital;CAGH-TX1 Scripps Green Hospital;305;TXC;TXC
+California	CAIM-TX1 University of California Irvine Medical Center	CAIM-TX1 University of California Irvine Medical Center;CAIM-TX1 University of California Irvine Medical Center;305;TXC;TXC
+California	CAKP-TX1 Kaiser Permanente-San Francisco Medical Center	CAKP-TX1 Kaiser Permanente-San Francisco Medical Center;CAKP-TX1 Kaiser Permanente-San Francisco Medical Center;305;TXC;TXC
+California	CALA-TX1 Harbor UCLA Medical Center	CALA-TX1 Harbor UCLA Medical Center;CALA-TX1 Harbor UCLA Medical Center;305;TXC;TXC
+California	CALB-TX1 St Mary Medical Center	CALB-TX1 St Mary Medical Center;CALB-TX1 St Mary Medical Center;305;TXC;TXC
+California	CALL-TX1 Loma Linda University Medical Center	CALL-TX1 Loma Linda University Medical Center;CALL-TX1 Loma Linda University Medical Center;305;TXC;TXC
+California	CAMB-TX1 UCSF Medical Center at Mission Bay	CAMB-TX1 UCSF Medical Center at Mission Bay;CAMB-TX1 UCSF Medical Center at Mission Bay;305;TXC;TXC
+California	CAMH-TX1 Santa Rosa Memorial Hospital	CAMH-TX1 Santa Rosa Memorial Hospital;CAMH-TX1 Santa Rosa Memorial Hospital;305;TXC;TXC
+California	CAPC-TX1 Lucile Salter Packard Children's Hospital at Stanford	CAPC-TX1 Lucile Salter Packard Children's Hospital at Stanford;CAPC-TX1 Lucile Salter Packard Children's Hospital at Stanford;305;TXC;TXC
+California	CAPM-TX1 California Pacific Medical Center-Van Ness Campus	CAPM-TX1 California Pacific Medical Center-Van Ness Campus;CAPM-TX1 California Pacific Medical Center-Van Ness Campus;305;TXC;TXC
+California	CARC-TX1 Riverside Community Hospital	CARC-TX1 Riverside Community Hospital;CARC-TX1 Riverside Community Hospital;305;TXC;TXC
+California	CARZ-TX1 Hoag Memorial Hospital Presbyterian	CARZ-TX1 Hoag Memorial Hospital Presbyterian;CARZ-TX1 Hoag Memorial Hospital Presbyterian;305;TXC;TXC
+California	CASB-TX1 Arrowhead Regional Medical Center	CASB-TX1 Arrowhead Regional Medical Center;CASB-TX1 Arrowhead Regional Medical Center;305;TXC;TXC
+California	CASC-TX1 Los Angeles County University of Southern California Medical Center	CASC-TX1 Los Angeles County University of Southern California Medical Center;CASC-TX1 Los Angeles County University of Southern California Medical Center;305;TXC;TXC
+California	CASD-TX1 University of California San Diego Medical Center	CASD-TX1 University of California San Diego Medical Center;CASD-TX1 University of California San Diego Medical Center;305;TXC;TXC
+California	CASF-TX1 University of California San Francisco Medical Center	CASF-TX1 University of California San Francisco Medical Center;CASF-TX1 University of California San Francisco Medical Center;305;TXC;TXC
+California	CASG-TX1 Sutter Medical Center Sacramento	CASG-TX1 Sutter Medical Center Sacramento;CASG-TX1 Sutter Medical Center Sacramento;305;TXC;TXC
+California	CASH-TX1 Sharp Memorial Hospital	CASH-TX1 Sharp Memorial Hospital;CASH-TX1 Sharp Memorial Hospital;305;TXC;TXC
+California	CASJ-TX1 Saint Joseph Hospital	CASJ-TX1 Saint Joseph Hospital;CASJ-TX1 Saint Joseph Hospital;305;TXC;TXC
+California	CASM-TX1 University of California Davis Medical Center	CASM-TX1 University of California Davis Medical Center;CASM-TX1 University of California Davis Medical Center;305;TXC;TXC
+California	CASU-TX1 Stanford Health Care	CASU-TX1 Stanford Health Care;CASU-TX1 Stanford Health Care;305;TXC;TXC
+California	CASV-TX1 St. Vincent Medical Center	CASV-TX1 St. Vincent Medical Center;CASV-TX1 St. Vincent Medical Center;305;TXC;TXC
+California	CAUC-TX1 University of California at Los Angeles Medical Center	CAUC-TX1 University of California at Los Angeles Medical Center;CAUC-TX1 University of California at Los Angeles Medical Center;305;TXC;TXC
+California	CAUH-TX1 Keck Hospital of USC	CAUH-TX1 Keck Hospital of USC;CAUH-TX1 Keck Hospital of USC;305;TXC;TXC
+California	CAWM-TX1 Western Medical Center	CAWM-TX1 Western Medical Center;CAWM-TX1 Western Medical Center;305;TXC;TXC
+Colorado	COCH-TX1 Children's Hospital Colorado	COCH-TX1 Children's Hospital Colorado;COCH-TX1 Children's Hospital Colorado;305;TXC;TXC
+Colorado	COMH-TX1 Memorial Hospital	COMH-TX1 Memorial Hospital;COMH-TX1 Memorial Hospital;305;TXC;TXC
+Colorado	COPM-TX1 AdventHealth Porter	COPM-TX1 AdventHealth Porter;COPM-TX1 AdventHealth Porter;305;TXC;TXC
+Colorado	COSL-TX1 Presbyterian/St Luke's Medical Center	COSL-TX1 Presbyterian/St Luke's Medical Center;COSL-TX1 Presbyterian/St Luke's Medical Center;305;TXC;TXC
+Colorado	COUC-TX1 University of Colorado Hospital/Health Science Center	COUC-TX1 University of Colorado Hospital/Health Science Center;COUC-TX1 University of Colorado Hospital/Health Science Center;305;TXC;TXC
+Connecticut	CTHH-TX1 Hartford Hospital	CTHH-TX1 Hartford Hospital;CTHH-TX1 Hartford Hospital;305;TXC;TXC
+Connecticut	CTYN-TX1 Yale New Haven Hospital	CTYN-TX1 Yale New Haven Hospital;CTYN-TX1 Yale New Haven Hospital;305;TXC;TXC
+Delaware	DEAI-TX1 Nemours Children's Hospital Delaware	DEAI-TX1 Nemours Children's Hospital Delaware;DEAI-TX1 Nemours Children's Hospital Delaware;305;TXC;TXC
+Delaware	DECC-TX1 Christiana Care Health Services	DECC-TX1 Christiana Care Health Services;DECC-TX1 Christiana Care Health Services;305;TXC;TXC
+District of Columbia	DCCH-TX1 Children's National Medical Center	DCCH-TX1 Children's National Medical Center;DCCH-TX1 Children's National Medical Center;305;TXC;TXC
+District of Columbia	DCGU-TX1 Medstar Georgetown Transplant Institute	DCGU-TX1 Medstar Georgetown Transplant Institute;DCGU-TX1 Medstar Georgetown Transplant Institute;305;TXC;TXC
+District of Columbia	DCGW-TX1 George Washington University Hospital	DCGW-TX1 George Washington University Hospital;DCGW-TX1 George Washington University Hospital;305;TXC;TXC
+District of Columbia	DCHU-TX1 Howard University Hospital	DCHU-TX1 Howard University Hospital;DCHU-TX1 Howard University Hospital;305;TXC;TXC
+District of Columbia	DCWH-TX1 Washington Hospital Center	DCWH-TX1 Washington Hospital Center;DCWH-TX1 Washington Hospital Center;305;TXC;TXC
+District of Columbia	DCWR-TX1 Walter Reed National Military Medical Center at Bethesda	DCWR-TX1 Walter Reed National Military Medical Center at Bethesda;DCWR-TX1 Walter Reed National Military Medical Center at Bethesda;305;TXC;TXC
+District of Columbia	MDNI-TX1 Warren Grant Magnuson Clinical Center/National Institutes of Health	MDNI-TX1 Warren Grant Magnuson Clinical Center/National Institutes of Health;MDNI-TX1 Warren Grant Magnuson Clinical Center/National Institutes of Health;305;TXC;TXC
+Florida	FLAC-TX1 Johns Hopkins All Children's Hospital	FLAC-TX1 Johns Hopkins All Children's Hospital;FLAC-TX1 Johns Hopkins All Children's Hospital;305;TXC;TXC
+Florida	FLBC-TX1 Broward Health Medical Center	FLBC-TX1 Broward Health Medical Center;FLBC-TX1 Broward Health Medical Center;305;TXC;TXC
+Florida	FLBF-TX1 Bert Fish Medical Center	FLBF-TX1 Bert Fish Medical Center;FLBF-TX1 Bert Fish Medical Center;305;TXC;TXC
+Florida	FLCC-TX1 Cleveland Clinic Florida Weston	FLCC-TX1 Cleveland Clinic Florida Weston;FLCC-TX1 Cleveland Clinic Florida Weston;305;TXC;TXC
+Florida	FLFH-TX1 AdventHealth Orlando	FLFH-TX1 AdventHealth Orlando;FLFH-TX1 AdventHealth Orlando;305;TXC;TXC
+Florida	FLFR-TX1 Gulf Coast Medical Center	FLFR-TX1 Gulf Coast Medical Center;FLFR-TX1 Gulf Coast Medical Center;305;TXC;TXC
+Florida	FLHM-TX1 Halifax Health	FLHM-TX1 Halifax Health;FLHM-TX1 Halifax Health;305;TXC;TXC
+Florida	FLJD-TX1 Memorial Regional Hospital/Joe DiMaggio Children's Hospital	FLJD-TX1 Memorial Regional Hospital/Joe DiMaggio Children's Hospital;FLJD-TX1 Memorial Regional Hospital/Joe DiMaggio Children's Hospital;305;TXC;TXC
+Florida	FLJM-TX1 Jackson Memorial Hospital University of Miami School of Medicine	FLJM-TX1 Jackson Memorial Hospital University of Miami School of Medicine;FLJM-TX1 Jackson Memorial Hospital University of Miami School of Medicine;305;TXC;TXC
+Florida	FLJT-TX1 Shands Jacksonville	FLJT-TX1 Shands Jacksonville;FLJT-TX1 Shands Jacksonville;305;TXC;TXC
+Florida	FLLM-TX1 Largo Medical Center	FLLM-TX1 Largo Medical Center;FLLM-TX1 Largo Medical Center;305;TXC;TXC
+Florida	FLMC-TX1 Miami Childrens Hospital	FLMC-TX1 Miami Childrens Hospital;FLMC-TX1 Miami Childrens Hospital;305;TXC;TXC
+Florida	FLMR-TX1 Memorial Regional Hospital	FLMR-TX1 Memorial Regional Hospital;FLMR-TX1 Memorial Regional Hospital;305;TXC;TXC
+Florida	FLSH-TX1 Ascension Sacred Heart Pensacola	FLSH-TX1 Ascension Sacred Heart Pensacola;FLSH-TX1 Ascension Sacred Heart Pensacola;305;TXC;TXC
+Florida	FLSJ-TX1 St Josephs Hospital	FLSJ-TX1 St Josephs Hospital;FLSJ-TX1 St Josephs Hospital;305;TXC;TXC
+Florida	FLSL-TX1 Mayo Clinic Hospital Florida	FLSL-TX1 Mayo Clinic Hospital Florida;FLSL-TX1 Mayo Clinic Hospital Florida;305;TXC;TXC
+Florida	FLTG-TX1 Tampa General Hospital	FLTG-TX1 Tampa General Hospital;FLTG-TX1 Tampa General Hospital;305;TXC;TXC
+Florida	FLTO-TX1 Tallahassee Memorial Hospital	FLTO-TX1 Tallahassee Memorial Hospital;FLTO-TX1 Tallahassee Memorial Hospital;305;TXC;TXC
+Florida	FLUF-TX1 UF Health Shands Hospital	FLUF-TX1 UF Health Shands Hospital;FLUF-TX1 UF Health Shands Hospital;305;TXC;TXC
+Florida	FLUM-TX1 University Medical Center	FLUM-TX1 University Medical Center;FLUM-TX1 University Medical Center;305;TXC;TXC
+Georgia	GAEH-TX1 Children’s Healthcare of Atlanta - Arthur M. Blank Hospital	GAEH-TX1 Children’s Healthcare of Atlanta - Arthur M. Blank Hospital;GAEH-TX1 Children’s Healthcare of Atlanta - Arthur M. Blank Hospital;305;TXC;TXC
+Georgia	GAEM-TX1 Emory University Hospital	GAEM-TX1 Emory University Hospital;GAEM-TX1 Emory University Hospital;305;TXC;TXC
+Georgia	GAMC-TX1 Wellstar MCG Health, affiliated with Medical College of Georgia	GAMC-TX1 Wellstar MCG Health, affiliated with Medical College of Georgia;GAMC-TX1 Wellstar MCG Health, affiliated with Medical College of Georgia;305;TXC;TXC
+Georgia	GAPH-TX1 Piedmont Hospital	GAPH-TX1 Piedmont Hospital;GAPH-TX1 Piedmont Hospital;305;TXC;TXC
+Georgia	GASJ-TX1 Saint Joseph's Hospital of Atlanta	GASJ-TX1 Saint Joseph's Hospital of Atlanta;GASJ-TX1 Saint Joseph's Hospital of Atlanta;305;TXC;TXC
+Georgia	GAUH-TX1 University Hospital	GAUH-TX1 University Hospital;GAUH-TX1 University Hospital;305;TXC;TXC
+Hawaii	HIQM-TX1 The Queen's Medical Center	HIQM-TX1 The Queen's Medical Center;HIQM-TX1 The Queen's Medical Center;305;TXC;TXC
+Hawaii	HISF-TX1 Hawaii Medical Center East	HISF-TX1 Hawaii Medical Center East;HISF-TX1 Hawaii Medical Center East;305;TXC;TXC
+Illinois	ILCH-TX1 Advocate Christ Medical Center	ILCH-TX1 Advocate Christ Medical Center;ILCH-TX1 Advocate Christ Medical Center;305;TXC;TXC
+Illinois	ILCM-TX1 Ann & Robert H. Lurie Children's Hospital of Chicago	ILCM-TX1 Ann & Robert H. Lurie Children's Hospital of Chicago;ILCM-TX1 Ann & Robert H. Lurie Children's Hospital of Chicago;305;TXC;TXC
+Illinois	ILEH-TX1 Evanston Hospital	ILEH-TX1 Evanston Hospital;ILEH-TX1 Evanston Hospital;305;TXC;TXC
+Illinois	ILLU-TX1 Loyola University Medical Center	ILLU-TX1 Loyola University Medical Center;ILLU-TX1 Loyola University Medical Center;305;TXC;TXC
+Illinois	ILLU-VA1 Hines Veterans Administration Medical Center	ILLU-VA1 Hines Veterans Administration Medical Center;ILLU-VA1 Hines Veterans Administration Medical Center;305;TXC;TXC
+Illinois	ILMM-TX1 Springfield Memorial Hospital	ILMM-TX1 Springfield Memorial Hospital;ILMM-TX1 Springfield Memorial Hospital;305;TXC;TXC
+Illinois	ILNM-TX1 Northwestern Memorial Hospital	ILNM-TX1 Northwestern Memorial Hospital;ILNM-TX1 Northwestern Memorial Hospital;305;TXC;TXC
+Illinois	ILPL-TX1 Rush University Medical Center	ILPL-TX1 Rush University Medical Center;ILPL-TX1 Rush University Medical Center;305;TXC;TXC
+Illinois	ILSF-TX1 OSF Saint Francis Medical Center	ILSF-TX1 OSF Saint Francis Medical Center;ILSF-TX1 OSF Saint Francis Medical Center;305;TXC;TXC
+Illinois	ILSJ-TX1 St. Johns Hospital	ILSJ-TX1 St. Johns Hospital;ILSJ-TX1 St. Johns Hospital;305;TXC;TXC
+Illinois	ILUC-TX1 University of Chicago Medical Center	ILUC-TX1 University of Chicago Medical Center;ILUC-TX1 University of Chicago Medical Center;305;TXC;TXC
+Illinois	ILUI-TX1 University of Illinois Medical Center	ILUI-TX1 University of Illinois Medical Center;ILUI-TX1 University of Illinois Medical Center;305;TXC;TXC
+Illinois	ILVA-TX1 Edward Hines Jr. Veterans Administration Medical Center	ILVA-TX1 Edward Hines Jr. Veterans Administration Medical Center;ILVA-TX1 Edward Hines Jr. Veterans Administration Medical Center;305;TXC;TXC
+Indiana	INIM-TX1 Indiana University Health	INIM-TX1 Indiana University Health;INIM-TX1 Indiana University Health;305;TXC;TXC
+Indiana	INIU-TX1 Indiana University Medical Center	INIU-TX1 Indiana University Medical Center;INIU-TX1 Indiana University Medical Center;305;TXC;TXC
+Indiana	INLH-TX1 Lutheran Hospital of Fort Wayne	INLH-TX1 Lutheran Hospital of Fort Wayne;INLH-TX1 Lutheran Hospital of Fort Wayne;305;TXC;TXC
+Indiana	INSV-TX1 Ascension St. Vincent Hospital	INSV-TX1 Ascension St. Vincent Hospital;INSV-TX1 Ascension St. Vincent Hospital;305;TXC;TXC
+Iowa	IAIM-TX1 Iowa Methodist Medical Center	IAIM-TX1 Iowa Methodist Medical Center;IAIM-TX1 Iowa Methodist Medical Center;305;TXC;TXC
+Iowa	IAIV-TX1 University of Iowa Hospitals and Clinics Transplant Programs	IAIV-TX1 University of Iowa Hospitals and Clinics Transplant Programs;IAIV-TX1 University of Iowa Hospitals and Clinics Transplant Programs;305;TXC;TXC
+Iowa	IAMH-TX1 MercyOne Des Moines Transplant Center	IAMH-TX1 MercyOne Des Moines Transplant Center;IAMH-TX1 MercyOne Des Moines Transplant Center;305;TXC;TXC
+Iowa	IAVA-TX1 The Iowa City VA Health Care System	IAVA-TX1 The Iowa City VA Health Care System;IAVA-TX1 The Iowa City VA Health Care System;305;TXC;TXC
+Kansas	KSFW-TX1 Via Christi Hospitals Wichita, Inc.	KSFW-TX1 Via Christi Hospitals Wichita, Inc.;KSFW-TX1 Via Christi Hospitals Wichita, Inc.;305;TXC;TXC
+Kansas	KSUK-TX1 University of Kansas Hospital	KSUK-TX1 University of Kansas Hospital;KSUK-TX1 University of Kansas Hospital;305;TXC;TXC
+Kentucky	KYHH-TX1 Columbia Audubon Hospital	KYHH-TX1 Columbia Audubon Hospital;KYHH-TX1 Columbia Audubon Hospital;305;TXC;TXC
+Kentucky	KYJH-TX1 Jewish Hospital	KYJH-TX1 Jewish Hospital;KYJH-TX1 Jewish Hospital;305;TXC;TXC
+Kentucky	KYKC-TX1 Norton Children's Hospital	KYKC-TX1 Norton Children's Hospital;KYKC-TX1 Norton Children's Hospital;305;TXC;TXC
+Kentucky	KYUK-TX1 University of Kentucky Medical Center	KYUK-TX1 University of Kentucky Medical Center;KYUK-TX1 University of Kentucky Medical Center;305;TXC;TXC
+Louisiana	LACH-TX1 Children's Hospital	LACH-TX1 Children's Hospital;LACH-TX1 Children's Hospital;305;TXC;TXC
+Louisiana	LAMC-TX1 University Medical Center	LAMC-TX1 University Medical Center;LAMC-TX1 University Medical Center;305;TXC;TXC
+Louisiana	LANO-TX1 University Hospital /Louisiana State University School of Medicine	LANO-TX1 University Hospital /Louisiana State University School of Medicine;LANO-TX1 University Hospital /Louisiana State University School of Medicine;305;TXC;TXC
+Louisiana	LAOF-TX1 Ochsner Foundation Hospital	LAOF-TX1 Ochsner Foundation Hospital;LAOF-TX1 Ochsner Foundation Hospital;305;TXC;TXC
+Louisiana	LASB-TX1 Lindy Boggs Medical Center	LASB-TX1 Lindy Boggs Medical Center;LASB-TX1 Lindy Boggs Medical Center;305;TXC;TXC
+Louisiana	LASM-TX1 Schumpert Health System	LASM-TX1 Schumpert Health System;LASM-TX1 Schumpert Health System;305;TXC;TXC
+Louisiana	LASU-TX1 Louisiana State University Medical Center Shreveport	LASU-TX1 Louisiana State University Medical Center Shreveport;LASU-TX1 Louisiana State University Medical Center Shreveport;305;TXC;TXC
+Louisiana	LATU-TX1 Tulane Medical Center	LATU-TX1 Tulane Medical Center;LATU-TX1 Tulane Medical Center;305;TXC;TXC
+Louisiana	LAWK-TX1 Willis-Knighton Medical Center	LAWK-TX1 Willis-Knighton Medical Center;LAWK-TX1 Willis-Knighton Medical Center;305;TXC;TXC
+Maine	MEMC-TX1 Maine Medical Center	MEMC-TX1 Maine Medical Center;MEMC-TX1 Maine Medical Center;305;TXC;TXC
+Maryland	MDBC-TX1 Johns Hopkins Bayview Medical Center	MDBC-TX1 Johns Hopkins Bayview Medical Center;MDBC-TX1 Johns Hopkins Bayview Medical Center;305;TXC;TXC
+Maryland	MDJH-TX1 Johns Hopkins Hospital	MDJH-TX1 Johns Hopkins Hospital;MDJH-TX1 Johns Hopkins Hospital;305;TXC;TXC
+Maryland	MDNI-TX1 Warren Grant Magnuson Clinical Center/National Institutes of Health	MDNI-TX1 Warren Grant Magnuson Clinical Center/National Institutes of Health;MDNI-TX1 Warren Grant Magnuson Clinical Center/National Institutes of Health;305;TXC;TXC
+Maryland	MDSG-TX1 Shady Grove Adventist Hospital	MDSG-TX1 Shady Grove Adventist Hospital;MDSG-TX1 Shady Grove Adventist Hospital;305;TXC;TXC
+Maryland	MDUM-TX1 University of Maryland Medical System	MDUM-TX1 University of Maryland Medical System;MDUM-TX1 University of Maryland Medical System;305;TXC;TXC
+Massachusetts	MABI-TX1 Beth Israel Deaconess Medical Center	MABI-TX1 Beth Israel Deaconess Medical Center;MABI-TX1 Beth Israel Deaconess Medical Center;305;TXC;TXC
+Massachusetts	MABS-TX1 Baystate Medical Center	MABS-TX1 Baystate Medical Center;MABS-TX1 Baystate Medical Center;305;TXC;TXC
+Massachusetts	MABU-TX1 Boston Medical Center	MABU-TX1 Boston Medical Center;MABU-TX1 Boston Medical Center;305;TXC;TXC
+Massachusetts	MABV-TX1 Boston Veterans Administration Medical Center	MABV-TX1 Boston Veterans Administration Medical Center;MABV-TX1 Boston Veterans Administration Medical Center;305;TXC;TXC
+Massachusetts	MACH-TX1 Boston Children's Hospital	MACH-TX1 Boston Children's Hospital;MACH-TX1 Boston Children's Hospital;305;TXC;TXC
+Massachusetts	MAHS-TX1 Beth Israel Deaconess Medical Center West Campus	MAHS-TX1 Beth Israel Deaconess Medical Center West Campus;MAHS-TX1 Beth Israel Deaconess Medical Center West Campus;305;TXC;TXC
+Massachusetts	MALC-TX1 Lahey Clinic Medical Center	MALC-TX1 Lahey Clinic Medical Center;MALC-TX1 Lahey Clinic Medical Center;305;TXC;TXC
+Massachusetts	MAMG-TX1 Massachusetts General Hospital	MAMG-TX1 Massachusetts General Hospital;MAMG-TX1 Massachusetts General Hospital;305;TXC;TXC
+Massachusetts	MANM-TX1 Tufts Medical Center	MANM-TX1 Tufts Medical Center;MANM-TX1 Tufts Medical Center;305;TXC;TXC
+Massachusetts	MAPB-TX1 Brigham and Women's Hospital	MAPB-TX1 Brigham and Women's Hospital;MAPB-TX1 Brigham and Women's Hospital;305;TXC;TXC
+Massachusetts	MAUM-TX1 UMass Memorial Medical Center	MAUM-TX1 UMass Memorial Medical Center;MAUM-TX1 UMass Memorial Medical Center;305;TXC;TXC
+Michigan	MIBH-TX1 Corewell Health William Beaumont University Hospital	MIBH-TX1 Corewell Health William Beaumont University Hospital;MIBH-TX1 Corewell Health William Beaumont University Hospital;305;TXC;TXC
+Michigan	MICH-TX1 Children's Hospital of Michigan	MICH-TX1 Children's Hospital of Michigan;MICH-TX1 Children's Hospital of Michigan;305;TXC;TXC
+Michigan	MIDV-TX1 Corewell Health Helen DeVos Children's Hospital	MIDV-TX1 Corewell Health Helen DeVos Children's Hospital;MIDV-TX1 Corewell Health Helen DeVos Children's Hospital;305;TXC;TXC
+Michigan	MIHF-TX1 Henry Ford Hospital	MIHF-TX1 Henry Ford Hospital;MIHF-TX1 Henry Ford Hospital;305;TXC;TXC
+Michigan	MIHH-TX1 Harper University Hospital Detroit Medical Center	MIHH-TX1 Harper University Hospital Detroit Medical Center;MIHH-TX1 Harper University Hospital Detroit Medical Center;305;TXC;TXC
+Michigan	MIHM-TX1 Hurley Medical Center	MIHM-TX1 Hurley Medical Center;MIHM-TX1 Hurley Medical Center;305;TXC;TXC
+Michigan	MIKZ-TX1 Borgess Medical Center	MIKZ-TX1 Borgess Medical Center;MIKZ-TX1 Borgess Medical Center;305;TXC;TXC
+Michigan	MIMC-TX1 Grace Hospital	MIMC-TX1 Grace Hospital;MIMC-TX1 Grace Hospital;305;TXC;TXC
+Michigan	MISH-TX1 Corewell Health Grand Rapids Hospitals	MISH-TX1 Corewell Health Grand Rapids Hospitals;MISH-TX1 Corewell Health Grand Rapids Hospitals;305;TXC;TXC
+Michigan	MISJ-TX1 Ascension St. John Hospital	MISJ-TX1 Ascension St. John Hospital;MISJ-TX1 Ascension St. John Hospital;305;TXC;TXC
+Michigan	MISM-TX1 Mercy Health Saint Mary's	MISM-TX1 Mercy Health Saint Mary's;MISM-TX1 Mercy Health Saint Mary's;305;TXC;TXC
+Michigan	MIUM-TX1 University of Michigan Medical Center	MIUM-TX1 University of Michigan Medical Center;MIUM-TX1 University of Michigan Medical Center;305;TXC;TXC
+Minnesota	MNAC-TX1 Univ of MN Amplatz Children's Hosp	MNAC-TX1 Univ of MN Amplatz Children's Hosp;MNAC-TX1 Univ of MN Amplatz Children's Hosp;305;TXC;TXC
+Minnesota	MNAN-TX1 Abbott Northwestern Hospital	MNAN-TX1 Abbott Northwestern Hospital;MNAN-TX1 Abbott Northwestern Hospital;305;TXC;TXC
+Minnesota	MNCM-TX1 Children's Minnesota	MNCM-TX1 Children's Minnesota;MNCM-TX1 Children's Minnesota;305;TXC;TXC
+Minnesota	MNHC-TX1 Hennepin County Medical Center	MNHC-TX1 Hennepin County Medical Center;MNHC-TX1 Hennepin County Medical Center;305;TXC;TXC
+Minnesota	MNMC-TX1 Mayo Clinic Hospital Minnesota	MNMC-TX1 Mayo Clinic Hospital Minnesota;MNMC-TX1 Mayo Clinic Hospital Minnesota;305;TXC;TXC
+Minnesota	MNMM-TX1 Metropolitan Mount Sinai Medical Center	MNMM-TX1 Metropolitan Mount Sinai Medical Center;MNMM-TX1 Metropolitan Mount Sinai Medical Center;305;TXC;TXC
+Minnesota	MNMV-TX1 Veterans Administration Medical Center Minneapolis	MNMV-TX1 Veterans Administration Medical Center Minneapolis;MNMV-TX1 Veterans Administration Medical Center Minneapolis;305;TXC;TXC
+Minnesota	MNUM-TX1 University of Minnesota Medical Center, Fairview	MNUM-TX1 University of Minnesota Medical Center, Fairview;MNUM-TX1 University of Minnesota Medical Center, Fairview;305;TXC;TXC
+Mississippi	MSUM-TX1 University of Mississippi Medical Center	MSUM-TX1 University of Mississippi Medical Center;MSUM-TX1 University of Mississippi Medical Center;305;TXC;TXC
+Missouri	MOBH-TX1 Barnes-Jewish Hospital	MOBH-TX1 Barnes-Jewish Hospital;MOBH-TX1 Barnes-Jewish Hospital;305;TXC;TXC
+Missouri	MOCG-TX1 Cardinal Glennon Children's Hospital	MOCG-TX1 Cardinal Glennon Children's Hospital;MOCG-TX1 Cardinal Glennon Children's Hospital;305;TXC;TXC
+Missouri	MOCH-TX1 St. Louis Children's Hospital at Washington University Medical Center	MOCH-TX1 St. Louis Children's Hospital at Washington University Medical Center;MOCH-TX1 St. Louis Children's Hospital at Washington University Medical Center;305;TXC;TXC
+Missouri	MOCM-TX1 Children's Mercy Hospital	MOCM-TX1 Children's Mercy Hospital;MOCM-TX1 Children's Mercy Hospital;305;TXC;TXC
+Missouri	MOCV-TX1 John Cochran Veterans Administration Hospital	MOCV-TX1 John Cochran Veterans Administration Hospital;MOCV-TX1 John Cochran Veterans Administration Hospital;305;TXC;TXC
+Missouri	MODU-TX1 DePaul Health Center	MODU-TX1 DePaul Health Center;MODU-TX1 DePaul Health Center;305;TXC;TXC
+Missouri	MOJM-TX1 St Johns Mercy Medical Center	MOJM-TX1 St Johns Mercy Medical Center;MOJM-TX1 St Johns Mercy Medical Center;305;TXC;TXC
+Missouri	MOLH-TX1 St Luke's Hospital of Kansas City	MOLH-TX1 St Luke's Hospital of Kansas City;MOLH-TX1 St Luke's Hospital of Kansas City;305;TXC;TXC
+Missouri	MOMM-TX1 Menorah Medical Center	MOMM-TX1 Menorah Medical Center;MOMM-TX1 Menorah Medical Center;305;TXC;TXC
+Missouri	MORH-TX1 Research Medical Center	MORH-TX1 Research Medical Center;MORH-TX1 Research Medical Center;305;TXC;TXC
+Missouri	MOSJ-TX1 St Johns Regional Medical Center	MOSJ-TX1 St Johns Regional Medical Center;MOSJ-TX1 St Johns Regional Medical Center;305;TXC;TXC
+Missouri	MOSL-TX1 SSM Health Saint Louis University Hospital	MOSL-TX1 SSM Health Saint Louis University Hospital;MOSL-TX1 SSM Health Saint Louis University Hospital;305;TXC;TXC
+Missouri	MOUM-TX1 University of Missouri Hospital and Clinics	MOUM-TX1 University of Missouri Hospital and Clinics;MOUM-TX1 University of Missouri Hospital and Clinics;305;TXC;TXC
+Nebraska	NEBM-TX1 BryanLGH Medical Center East	NEBM-TX1 BryanLGH Medical Center East;NEBM-TX1 BryanLGH Medical Center East;305;TXC;TXC
+Nebraska	NECH-TX1 Children’s Nebraska	NECH-TX1 Children’s Nebraska;NECH-TX1 Children’s Nebraska;305;TXC;TXC
+Nebraska	NECM-TX1 Nebraska Health System Clarkson Hospital	NECM-TX1 Nebraska Health System Clarkson Hospital;NECM-TX1 Nebraska Health System Clarkson Hospital;305;TXC;TXC
+Nebraska	NESJ-TX1 Saint Joseph Hospital at Creighton University Medical Center	NESJ-TX1 Saint Joseph Hospital at Creighton University Medical Center;NESJ-TX1 Saint Joseph Hospital at Creighton University Medical Center;305;TXC;TXC
+Nebraska	NEUN-TX1 The Nebraska Medical Center	NEUN-TX1 The Nebraska Medical Center;NEUN-TX1 The Nebraska Medical Center;305;TXC;TXC
+Nevada	NVHH-TX1 Sunrise Hospital and Medical Center	NVHH-TX1 Sunrise Hospital and Medical Center;NVHH-TX1 Sunrise Hospital and Medical Center;305;TXC;TXC
+Nevada	NVRR-TX1 Renown Regional Medical Center	NVRR-TX1 Renown Regional Medical Center;NVRR-TX1 Renown Regional Medical Center;305;TXC;TXC
+Nevada	NVUM-TX1 University Medical Center of Southern Nevada	NVUM-TX1 University Medical Center of Southern Nevada;NVUM-TX1 University Medical Center of Southern Nevada;305;TXC;TXC
+New Hampshire	NHDH-TX1 Mary Hitchcock Memorial Hospital	NHDH-TX1 Mary Hitchcock Memorial Hospital;NHDH-TX1 Mary Hitchcock Memorial Hospital;305;TXC;TXC
+New Jersey	NJBI-TX1 Newark Beth Israel Medical Center	NJBI-TX1 Newark Beth Israel Medical Center;NJBI-TX1 Newark Beth Israel Medical Center;305;TXC;TXC
+New Jersey	NJHK-TX1 Hackensack University Medical Center	NJHK-TX1 Hackensack University Medical Center;NJHK-TX1 Hackensack University Medical Center;305;TXC;TXC
+New Jersey	NJLL-TX1 Virtua Our Lady of Lourdes Hospital	NJLL-TX1 Virtua Our Lady of Lourdes Hospital;NJLL-TX1 Virtua Our Lady of Lourdes Hospital;305;TXC;TXC
+New Jersey	NJRW-TX1 Robert Wood Johnson University Hospital	NJRW-TX1 Robert Wood Johnson University Hospital;NJRW-TX1 Robert Wood Johnson University Hospital;305;TXC;TXC
+New Jersey	NJSB-TX1 Saint Barnabas Medical Center	NJSB-TX1 Saint Barnabas Medical Center;NJSB-TX1 Saint Barnabas Medical Center;305;TXC;TXC
+New Jersey	NJUH-TX1 University Hospital	NJUH-TX1 University Hospital;NJUH-TX1 University Hospital;305;TXC;TXC
+New Mexico	NMAQ-TX1 University Hospital, University of New Mexico Health Sciences Center	NMAQ-TX1 University Hospital, University of New Mexico Health Sciences Center;NMAQ-TX1 University Hospital, University of New Mexico Health Sciences Center;305;TXC;TXC
+New Mexico	NMPH-TX1 Presbyterian Hospital	NMPH-TX1 Presbyterian Hospital;NMPH-TX1 Presbyterian Hospital;305;TXC;TXC
+New York	NYAM-TX1 Albany Medical Center Hospital	NYAM-TX1 Albany Medical Center Hospital;NYAM-TX1 Albany Medical Center Hospital;305;TXC;TXC
+New York	NYBC-TX1 Childrens Hospital of Buffalo	NYBC-TX1 Childrens Hospital of Buffalo;NYBC-TX1 Childrens Hospital of Buffalo;305;TXC;TXC
+New York	NYBU-TX1 Buffalo General Hospital/ Children's Hospital	NYBU-TX1 Buffalo General Hospital/ Children's Hospital;NYBU-TX1 Buffalo General Hospital/ Children's Hospital;305;TXC;TXC
+New York	NYBU-VA1 Buffalo Veterans Administration Medical Center	NYBU-VA1 Buffalo Veterans Administration Medical Center;NYBU-VA1 Buffalo Veterans Administration Medical Center;305;TXC;TXC
+New York	NYCC-TX1 Long Island Jewish Medical Center-Cohen Children's Medical Center	NYCC-TX1 Long Island Jewish Medical Center-Cohen Children's Medical Center;NYCC-TX1 Long Island Jewish Medical Center-Cohen Children's Medical Center;305;TXC;TXC
+New York	NYCP-TX1 NY Presbyterian Hospital/Columbia Univ. Medical Center	NYCP-TX1 NY Presbyterian Hospital/Columbia Univ. Medical Center;NYCP-TX1 NY Presbyterian Hospital/Columbia Univ. Medical Center;305;TXC;TXC
+New York	NYDS-TX1 State University of New York, Downstate Medical Center	NYDS-TX1 State University of New York, Downstate Medical Center;NYDS-TX1 State University of New York, Downstate Medical Center;305;TXC;TXC
+New York	NYEC-TX1 Erie County Medical Center	NYEC-TX1 Erie County Medical Center;NYEC-TX1 Erie County Medical Center;305;TXC;TXC
+New York	NYFL-TX1 Strong Memorial Hospital, University of Rochester Medical Center	NYFL-TX1 Strong Memorial Hospital, University of Rochester Medical Center;NYFL-TX1 Strong Memorial Hospital, University of Rochester Medical Center;305;TXC;TXC
+New York	NYMA-TX1 Montefiore Medical Center	NYMA-TX1 Montefiore Medical Center;NYMA-TX1 Montefiore Medical Center;305;TXC;TXC
+New York	NYMS-TX1 Mount Sinai Medical Center	NYMS-TX1 Mount Sinai Medical Center;NYMS-TX1 Mount Sinai Medical Center;305;TXC;TXC
+New York	NYNS-TX1 North Shore University Hospital/Northwell Health	NYNS-TX1 North Shore University Hospital/Northwell Health;NYNS-TX1 North Shore University Hospital/Northwell Health;305;TXC;TXC
+New York	NYNY-TX1 New York-Presbyterian Hospital/Weill Cornell Medical Center	NYNY-TX1 New York-Presbyterian Hospital/Weill Cornell Medical Center;NYNY-TX1 New York-Presbyterian Hospital/Weill Cornell Medical Center;305;TXC;TXC
+New York	NYSB-TX1 University Hospital of State University of New York at Stony Brook	NYSB-TX1 University Hospital of State University of New York at Stony Brook;NYSB-TX1 University Hospital of State University of New York at Stony Brook;305;TXC;TXC
+New York	NYSL-TX1 St. Luke's Roosevelt Hospital Center	NYSL-TX1 St. Luke's Roosevelt Hospital Center;NYSL-TX1 St. Luke's Roosevelt Hospital Center;305;TXC;TXC
+New York	NYUC-TX1 NYU Langone Health	NYUC-TX1 NYU Langone Health;NYUC-TX1 NYU Langone Health;305;TXC;TXC
+New York	NYUM-TX1 State University of New York Upstate Medical University	NYUM-TX1 State University of New York Upstate Medical University;NYUM-TX1 State University of New York Upstate Medical University;305;TXC;TXC
+New York	NYVA-TX1 James J. Peters VA Medical Center	NYVA-TX1 James J. Peters VA Medical Center;NYVA-TX1 James J. Peters VA Medical Center;305;TXC;TXC
+New York	NYWC-TX1 Westchester Medical Center	NYWC-TX1 Westchester Medical Center;NYWC-TX1 Westchester Medical Center;305;TXC;TXC
+North Carolina	NCBG-TX1 Wake Forest Baptist Medical Center	NCBG-TX1 Wake Forest Baptist Medical Center;NCBG-TX1 Wake Forest Baptist Medical Center;305;TXC;TXC
+North Carolina	NCCM-TX1 Carolinas Medical Center	NCCM-TX1 Carolinas Medical Center;NCCM-TX1 Carolinas Medical Center;305;TXC;TXC
+North Carolina	NCDU-TX1 Duke University Hospital	NCDU-TX1 Duke University Hospital;NCDU-TX1 Duke University Hospital;305;TXC;TXC
+North Carolina	NCDU-VA1 Durham VA Medical Center	NCDU-VA1 Durham VA Medical Center;NCDU-VA1 Durham VA Medical Center;305;TXC;TXC
+North Carolina	NCEC-TX1 ECU Health Medical Center	NCEC-TX1 ECU Health Medical Center;NCEC-TX1 ECU Health Medical Center;305;TXC;TXC
+North Carolina	NCMH-TX1 University of North Carolina Hospitals	NCMH-TX1 University of North Carolina Hospitals;NCMH-TX1 University of North Carolina Hospitals;305;TXC;TXC
+North Dakota	NDDH-TX1 Dakota Heartland Health System	NDDH-TX1 Dakota Heartland Health System;NDDH-TX1 Dakota Heartland Health System;305;TXC;TXC
+North Dakota	NDMC-TX1 Sanford Bismarck Medical Center	NDMC-TX1 Sanford Bismarck Medical Center;NDMC-TX1 Sanford Bismarck Medical Center;305;TXC;TXC
+North Dakota	NDSL-TX1 Sanford Medical Center Fargo	NDSL-TX1 Sanford Medical Center Fargo;NDSL-TX1 Sanford Medical Center Fargo;305;TXC;TXC
+Ohio	OHAC-TX1 Akron City Hospital	OHAC-TX1 Akron City Hospital;OHAC-TX1 Akron City Hospital;305;TXC;TXC
+Ohio	OHCA-TX1 Childrens Hospital Medical Center of Akron	OHCA-TX1 Childrens Hospital Medical Center of Akron;OHCA-TX1 Childrens Hospital Medical Center of Akron;305;TXC;TXC
+Ohio	OHCC-TX1 The Cleveland Clinic Foundation	OHCC-TX1 The Cleveland Clinic Foundation;OHCC-TX1 The Cleveland Clinic Foundation;305;TXC;TXC
+Ohio	OHCH-TX1 Nationwide Children's Hospital	OHCH-TX1 Nationwide Children's Hospital;OHCH-TX1 Nationwide Children's Hospital;305;TXC;TXC
+Ohio	OHCM-TX1 Children's Hospital Medical Center	OHCM-TX1 Children's Hospital Medical Center;OHCM-TX1 Children's Hospital Medical Center;305;TXC;TXC
+Ohio	OHCO-TX1 University of Toledo Medical Center	OHCO-TX1 University of Toledo Medical Center;OHCO-TX1 University of Toledo Medical Center;305;TXC;TXC
+Ohio	OHMV-TX1 Miami Valley Hospital	OHMV-TX1 Miami Valley Hospital;OHMV-TX1 Miami Valley Hospital;305;TXC;TXC
+Ohio	OHOU-TX1 Ohio State University Medical Center	OHOU-TX1 Ohio State University Medical Center;OHOU-TX1 Ohio State University Medical Center;305;TXC;TXC
+Ohio	OHSE-TX1 St. Elizabeth Health Center	OHSE-TX1 St. Elizabeth Health Center;OHSE-TX1 St. Elizabeth Health Center;305;TXC;TXC
+Ohio	OHTC-TX1 The Christ Hospital	OHTC-TX1 The Christ Hospital;OHTC-TX1 The Christ Hospital;305;TXC;TXC
+Ohio	OHUC-TX1 University of Cincinnati Medical Center	OHUC-TX1 University of Cincinnati  Medical Center;OHUC-TX1 University of Cincinnati  Medical Center;305;TXC;TXC
+Ohio	OHUH-TX1 University Hospitals of Cleveland	OHUH-TX1 University Hospitals of Cleveland;OHUH-TX1 University Hospitals of Cleveland;305;TXC;TXC
+Oklahoma	OKBC-TX1 Integris Baptist Medical Center	OKBC-TX1 Integris Baptist Medical Center;OKBC-TX1 Integris Baptist Medical Center;305;TXC;TXC
+Oklahoma	OKCM-TX1 Children's Hospital of Oklahoma	OKCM-TX1 Children's Hospital of Oklahoma;OKCM-TX1 Children's Hospital of Oklahoma;305;TXC;TXC
+Oklahoma	OKHM-TX1 Hillcrest Medical Center	OKHM-TX1 Hillcrest Medical Center;OKHM-TX1 Hillcrest Medical Center;305;TXC;TXC
+Oklahoma	OKMD-TX1 OU Medical Center	OKMD-TX1 OU Medical Center;OKMD-TX1 OU Medical Center;305;TXC;TXC
+Oklahoma	OKSA-TX1 St. Anthony Hospital	OKSA-TX1 St. Anthony Hospital;OKSA-TX1 St. Anthony Hospital;305;TXC;TXC
+Oklahoma	OKSF-TX1 Saint Francis Hospital	OKSF-TX1 Saint Francis Hospital;OKSF-TX1 Saint Francis Hospital;305;TXC;TXC
+Oklahoma	OKSJ-TX1 St John Medical Center	OKSJ-TX1 St John Medical Center;OKSJ-TX1 St John Medical Center;305;TXC;TXC
+Oregon	ORGS-TX1 Legacy Good Samaritan Hospital and Medical Center	ORGS-TX1 Legacy Good Samaritan Hospital and Medical Center;ORGS-TX1 Legacy Good Samaritan Hospital and Medical Center;305;TXC;TXC
+Oregon	ORPM-TX1 Providence Portland Medical Center	ORPM-TX1 Providence Portland Medical Center;ORPM-TX1 Providence Portland Medical Center;305;TXC;TXC
+Oregon	ORSV-TX1 Providence St. Vincent Medical Center	ORSV-TX1 Providence St. Vincent Medical Center;ORSV-TX1 Providence St. Vincent Medical Center;305;TXC;TXC
+Oregon	ORUO-TX1 Oregon Health and Science University	ORUO-TX1 Oregon Health and Science University;ORUO-TX1 Oregon Health and Science University;305;TXC;TXC
+Oregon	ORVA-TX1 VA Portland Health Care System	ORVA-TX1 VA Portland Health Care System;ORVA-TX1 VA Portland Health Care System;305;TXC;TXC
+Pennsylvania	PAAE-TX1 Albert Einstein Medical Center	PAAE-TX1 Albert Einstein Medical Center;PAAE-TX1 Albert Einstein Medical Center;305;TXC;TXC
+Pennsylvania	PAAG-TX1 Allegheny General Hospital	PAAG-TX1 Allegheny General Hospital;PAAG-TX1 Allegheny General Hospital;305;TXC;TXC
+Pennsylvania	PACC-TX1 Crozer-Chester Medical Center	PACC-TX1 Crozer-Chester Medical Center;PACC-TX1 Crozer-Chester Medical Center;305;TXC;TXC
+Pennsylvania	PACH-TX1 UPMC Children's Hospital of Pittsburgh	PACH-TX1 UPMC Children's Hospital of Pittsburgh;PACH-TX1 UPMC Children's Hospital of Pittsburgh;305;TXC;TXC
+Pennsylvania	PACP-TX1 Children's Hospital of Philadelphia	PACP-TX1 Children's Hospital of Philadelphia;PACP-TX1 Children's Hospital of Philadelphia;305;TXC;TXC
+Pennsylvania	PAGM-TX1 Geisinger Medical Center	PAGM-TX1 Geisinger Medical Center;PAGM-TX1 Geisinger Medical Center;305;TXC;TXC
+Pennsylvania	PAHE-TX1 Penn State Milton S Hershey Medical Center	PAHE-TX1 Penn State Milton S Hershey Medical Center;PAHE-TX1 Penn State Milton S Hershey Medical Center;305;TXC;TXC
+Pennsylvania	PAHH-TX1 Pinnacle Health System at Harrisburg Hospital	PAHH-TX1 Pinnacle Health System at Harrisburg Hospital;PAHH-TX1 Pinnacle Health System at Harrisburg Hospital;305;TXC;TXC
+Pennsylvania	PAHM-TX1 Hahnemann University Hospital	PAHM-TX1 Hahnemann University Hospital;PAHM-TX1 Hahnemann University Hospital;305;TXC;TXC
+Pennsylvania	PALH-TX1 The Lankenau Hospital	PALH-TX1 The Lankenau Hospital;PALH-TX1 The Lankenau Hospital;305;TXC;TXC
+Pennsylvania	PALV-TX1 Lehigh Valley Hospital	PALV-TX1 Lehigh Valley Hospital;PALV-TX1 Lehigh Valley Hospital;305;TXC;TXC
+Pennsylvania	PAPH-TX1 UPMC Hamot	PAPH-TX1 UPMC Hamot;PAPH-TX1 UPMC Hamot;305;TXC;TXC
+Pennsylvania	PAPT-TX1 University of Pittsburgh Medical Center	PAPT-TX1 University of Pittsburgh Medical Center;PAPT-TX1 University of Pittsburgh Medical Center;305;TXC;TXC
+Pennsylvania	PARH-TX1 Reading Hospital	PARH-TX1 Reading Hospital;PARH-TX1 Reading Hospital;305;TXC;TXC
+Pennsylvania	PASC-TX1 St. Christopher's Hospital for Children	PASC-TX1 St. Christopher's Hospital for Children;PASC-TX1 St. Christopher's Hospital for Children;305;TXC;TXC
+Pennsylvania	PATJ-TX1 Thomas Jefferson University Hospital	PATJ-TX1 Thomas Jefferson University Hospital;PATJ-TX1 Thomas Jefferson University Hospital;305;TXC;TXC
+Pennsylvania	PATU-TX1 Temple University Hospital	PATU-TX1 Temple University Hospital;PATU-TX1 Temple University Hospital;305;TXC;TXC
+Pennsylvania	PAUP-TX1 Hospital of the University of Pennsylvania	PAUP-TX1 Hospital of the University of Pennsylvania;PAUP-TX1 Hospital of the University of Pennsylvania;305;TXC;TXC
+Pennsylvania	PAVA-TX1 VA Pittsburgh Healthcare System	PAVA-TX1 VA Pittsburgh Healthcare System;PAVA-TX1 VA Pittsburgh Healthcare System;305;TXC;TXC
+Pennsylvania	PAWV-TX1 Geisinger Wyoming Valley Medical Ctr	PAWV-TX1 Geisinger Wyoming Valley Medical Ctr;PAWV-TX1 Geisinger Wyoming Valley Medical Ctr;305;TXC;TXC
+Puerto Rico	PRCC-TX1 Cardiovascular Center of Puerto Rico and the Caribbean	PRCC-TX1 Cardiovascular Center of Puerto Rico and the Caribbean;PRCC-TX1 Cardiovascular Center of Puerto Rico and the Caribbean;305;TXC;TXC
+Puerto Rico	PRSJ-TX1 Auxilio Mutuo Hospital	PRSJ-TX1 Auxilio Mutuo Hospital;PRSJ-TX1 Auxilio Mutuo Hospital;305;TXC;TXC
+Rhode Island	RIRH-TX1 Rhode Island Hospital	RIRH-TX1 Rhode Island Hospital;RIRH-TX1 Rhode Island Hospital;305;TXC;TXC
+South Carolina	SCCH-TX1 MUSC Children's Hospital	SCCH-TX1 MUSC Children's Hospital;SCCH-TX1 MUSC Children's Hospital;305;TXC;TXC
+South Carolina	SCLA-TX1 MUSC Lancaster	SCLA-TX1 MUSC Lancaster;SCLA-TX1 MUSC Lancaster;305;TXC;TXC
+South Carolina	SCMU-TX1 Medical University of South Carolina	SCMU-TX1 Medical University of South Carolina;SCMU-TX1 Medical University of South Carolina;305;TXC;TXC
+South Carolina	SCPG-TX1 Prisma Health Greenville Memorial Hospital	SCPG-TX1 Prisma Health Greenville Memorial Hospital;SCPG-TX1 Prisma Health Greenville Memorial Hospital;305;TXC;TXC
+South Carolina	SCRM-TX1 Richland Memorial Hospital	SCRM-TX1 Richland Memorial Hospital;SCRM-TX1 Richland Memorial Hospital;305;TXC;TXC
+South Dakota	NJSB-TX1 Saint Barnabas Medical Center	NJSB-TX1 Saint Barnabas Medical Center;NJSB-TX1 Saint Barnabas Medical Center;305;TXC;TXC
+South Dakota	SDMK-TX1 Avera McKennan Hospital	SDMK-TX1 Avera McKennan Hospital;SDMK-TX1 Avera McKennan Hospital;305;TXC;TXC
+South Dakota	SDSV-TX1 Sanford Health/USD Medical Center	SDSV-TX1 Sanford Health/USD Medical Center;SDSV-TX1 Sanford Health/USD Medical Center;305;TXC;TXC
+Tennessee	TNBM-TX1 Baptist Memorial Hospital	TNBM-TX1 Baptist Memorial Hospital;TNBM-TX1 Baptist Memorial Hospital;305;TXC;TXC
+Tennessee	TNEM-TX1 Erlanger Medical Center	TNEM-TX1 Erlanger Medical Center;TNEM-TX1 Erlanger Medical Center;305;TXC;TXC
+Tennessee	TNJC-TX1 Johnson City Medical Center Hospital	TNJC-TX1 Johnson City Medical Center Hospital;TNJC-TX1 Johnson City Medical Center Hospital;305;TXC;TXC
+Tennessee	TNLB-TX1 Le Bonheur Children's Medical Center	TNLB-TX1 Le Bonheur Children's Medical Center;TNLB-TX1 Le Bonheur Children's Medical Center;305;TXC;TXC
+Tennessee	TNMH-TX1 Methodist University Hospital	TNMH-TX1 Methodist University Hospital;TNMH-TX1 Methodist University Hospital;305;TXC;TXC
+Tennessee	TNPV-TX1 Centennial Medical Center	TNPV-TX1 Centennial Medical Center;TNPV-TX1 Centennial Medical Center;305;TXC;TXC
+Tennessee	TNST-TX1 Saint Thomas Hospital	TNST-TX1 Saint Thomas Hospital;TNST-TX1 Saint Thomas Hospital;305;TXC;TXC
+Tennessee	TNUK-TX1 University of Tennessee Medical Center at Knoxville	TNUK-TX1 University of Tennessee Medical Center at Knoxville;TNUK-TX1 University of Tennessee Medical Center at Knoxville;305;TXC;TXC
+Tennessee	TNUT-TX1 William F Bowld Hospital University of Tennessee Medical Center	TNUT-TX1 William F Bowld Hospital University of Tennessee Medical Center;TNUT-TX1 William F Bowld Hospital University of Tennessee Medical Center;305;TXC;TXC
+Tennessee	TNVA-TX1 Tennessee Valley Healthcare System	TNVA-TX1 Tennessee Valley Healthcare System;TNVA-TX1 Tennessee Valley Healthcare System;305;TXC;TXC
+Tennessee	TNVU-TX1 Vanderbilt University Medical Center	TNVU-TX1 Vanderbilt University Medical Center;TNVU-TX1 Vanderbilt University Medical Center;305;TXC;TXC
+Texas	TXAD-TX1 Brackenridge Hospital	TXAD-TX1 Brackenridge Hospital;TXAD-TX1 Brackenridge Hospital;305;TXC;TXC
+Texas	TXAS-TX1 Baylor Scott and White All Saints Medical Center-Fort Worth	TXAS-TX1 Baylor  Scott and White All Saints Medical Center-Fort Worth;TXAS-TX1 Baylor  Scott and White All Saints Medical Center-Fort Worth;305;TXC;TXC
+Texas	TXBA-TX1 Brooke Army Medical Center	TXBA-TX1 Brooke Army Medical Center;TXBA-TX1 Brooke Army Medical Center;305;TXC;TXC
+Texas	TXBC-TX1 University Hospital, University of Texas Health Science Center	TXBC-TX1 University Hospital, University of Texas Health Science Center;TXBC-TX1 University Hospital, University of Texas Health Science Center;305;TXC;TXC
+Texas	TXCF-TX1 Cook Children's Medical Center	TXCF-TX1 Cook Children's Medical Center;TXCF-TX1 Cook Children's Medical Center;305;TXC;TXC
+Texas	TXCM-TX1 Children's Medical Center of Dallas	TXCM-TX1 Children's Medical Center of Dallas;TXCM-TX1 Children's Medical Center of Dallas;305;TXC;TXC
+Texas	TXCT-TX1 Seton Medical Center Austin	TXCT-TX1 Seton Medical Center Austin;TXCT-TX1 Seton Medical Center Austin;305;TXC;TXC
+Texas	TXDC-TX1 Driscoll Children's Hospital	TXDC-TX1 Driscoll Children's Hospital;TXDC-TX1 Driscoll Children's Hospital;305;TXC;TXC
+Texas	TXDL-TX1 Dell Children's Medical Center	TXDL-TX1 Dell Children's Medical Center;TXDL-TX1 Dell Children's Medical Center;305;TXC;TXC
+Texas	TXDM-TX1 North Austin Medical Center	TXDM-TX1 North Austin Medical Center;TXDM-TX1 North Austin Medical Center;305;TXC;TXC
+Texas	TXDR-TX1 Doctor's Hospital at Renaissance	TXDR-TX1 Doctor's Hospital at Renaissance;TXDR-TX1 Doctor's Hospital at Renaissance;305;TXC;TXC
+Texas	TXDS-TX1 Dell Seton Medical Center at The University of Texas at Austin	TXDS-TX1 Dell Seton Medical Center at The University of Texas at Austin;TXDS-TX1 Dell Seton Medical Center at The University of Texas at Austin;305;TXC;TXC
+Texas	TXFW-TX1 Texas Health Harris Methodist Fort Worth Hospital	TXFW-TX1 Texas Health Harris Methodist Fort Worth Hospital;TXFW-TX1 Texas Health Harris Methodist Fort Worth Hospital;305;TXC;TXC
+Texas	TXGV-TX1 Baylor Medical Center Grapevine	TXGV-TX1 Baylor Medical Center Grapevine;TXGV-TX1 Baylor Medical Center Grapevine;305;TXC;TXC
+Texas	TXHD-TX1 Medical City Dallas Hospital	TXHD-TX1 Medical City Dallas Hospital;TXHD-TX1 Medical City Dallas Hospital;305;TXC;TXC
+Texas	TXHH-TX1 Memorial Hermann Hospital, University of Texas at Houston	TXHH-TX1 Memorial Hermann Hospital, University of Texas at Houston;TXHH-TX1 Memorial Hermann Hospital, University of Texas at Houston;305;TXC;TXC
+Texas	TXHI-TX1 CHI St. Luke's Health Baylor College of Medicine Medical Center	TXHI-TX1 CHI St. Luke's Health Baylor College of Medicine Medical Center;TXHI-TX1 CHI St. Luke's Health Baylor College of Medicine Medical Center;305;TXC;TXC
+Texas	TXHS-TX1 Methodist Specialty and Transplant Hospital	TXHS-TX1 Methodist Specialty and Transplant Hospital;TXHS-TX1 Methodist Specialty and Transplant Hospital;305;TXC;TXC
+Texas	TXJS-TX1 University of Texas Medical Branch at Galveston	TXJS-TX1 University of Texas Medical Branch at Galveston;TXJS-TX1 University of Texas Medical Branch at Galveston;305;TXC;TXC
+Texas	TXLG-TX1 University Medical Center	TXLG-TX1 University Medical Center;TXLG-TX1 University Medical Center;305;TXC;TXC
+Texas	TXLM-TX1 Covenant Medical Center	TXLM-TX1 Covenant Medical Center;TXLM-TX1 Covenant Medical Center;305;TXC;TXC
+Texas	TXLP-TX1 Las Palmas Medical Center	TXLP-TX1 Las Palmas Medical Center;TXLP-TX1 Las Palmas Medical Center;305;TXC;TXC
+Texas	TXMA-TX1 McAllen Medical Center	TXMA-TX1 McAllen Medical Center;TXMA-TX1 McAllen Medical Center;305;TXC;TXC
+Texas	TXMC-TX1 Methodist Dallas Medical Center	TXMC-TX1 Methodist Dallas Medical Center;TXMC-TX1 Methodist Dallas Medical Center;305;TXC;TXC
+Texas	TXMH-TX1 Houston Methodist Hospital	TXMH-TX1 Houston Methodist Hospital;TXMH-TX1 Houston Methodist Hospital;305;TXC;TXC
+Texas	TXPL-TX1 Medical City Fort Worth	TXPL-TX1 Medical City Fort Worth;TXPL-TX1 Medical City Fort Worth;305;TXC;TXC
+Texas	TXPM-TX1 Parkland Health and Hospital System	TXPM-TX1 Parkland Health and Hospital System;TXPM-TX1 Parkland Health and Hospital System;305;TXC;TXC
+Texas	TXRM-TX1 Christus Santa Rosa Hospital Medical Center	TXRM-TX1 Christus Santa Rosa Hospital Medical Center;TXRM-TX1 Christus Santa Rosa Hospital Medical Center;305;TXC;TXC
+Texas	TXSM-TX1 Sierra Medical Center	TXSM-TX1 Sierra Medical Center;TXSM-TX1 Sierra Medical Center;305;TXC;TXC
+Texas	TXSP-TX1 UT Southwestern Medical Center/William P. Clements Jr. University Hospital	TXSP-TX1 UT Southwestern Medical Center/William P. Clements Jr. University Hospital;TXSP-TX1 UT Southwestern Medical Center/William P. Clements Jr. University Hospital;305;TXC;TXC
+Texas	TXSW-TX1 Scott and White Memorial Hospital	TXSW-TX1 Scott and White Memorial Hospital;TXSW-TX1 Scott and White Memorial Hospital;305;TXC;TXC
+Texas	TXTC-TX1 Texas Children's Hospital	TXTC-TX1 Texas Children's Hospital;TXTC-TX1 Texas Children's Hospital;305;TXC;TXC
+Texas	TXTX-TX1 Baylor University Medical Center	TXTX-TX1 Baylor University Medical Center;TXTX-TX1 Baylor University Medical Center;305;TXC;TXC
+Texas	TXTY-TX1 East Texas Medical Center	TXTY-TX1 East Texas Medical Center;TXTY-TX1 East Texas Medical Center;305;TXC;TXC
+Texas	TXUC-TX1 University Children's Health	TXUC-TX1 University Children's Health;TXUC-TX1 University Children's Health;305;TXC;TXC
+Texas	TXVA-TX1 Michael E. DeBakey VA Medical Center	TXVA-TX1 Michael E. DeBakey VA Medical Center;TXVA-TX1 Michael E. DeBakey VA Medical Center;305;TXC;TXC
+Texas	TXWH-TX1 Wilford Hall Medical Center	TXWH-TX1 Wilford Hall Medical Center;TXWH-TX1 Wilford Hall Medical Center;305;TXC;TXC
+Utah	UTLD-TX1 Intermountain Medical Center	UTLD-TX1 Intermountain Medical Center;UTLD-TX1 Intermountain Medical Center;305;TXC;TXC
+Utah	UTMC-TX1 University of Utah Medical Center	UTMC-TX1 University of Utah Medical Center;UTMC-TX1 University of Utah Medical Center;305;TXC;TXC
+Utah	UTMC-VA1 Salt Lake City Veterans Administation Medical Center	UTMC-VA1 Salt Lake City Veterans Administation Medical Center;UTMC-VA1 Salt Lake City Veterans Administation Medical Center;305;TXC;TXC
+Utah	UTPC-TX1 Primary Children's Hospital	UTPC-TX1 Primary Children's Hospital;UTPC-TX1 Primary Children's Hospital;305;TXC;TXC
+Vermont	VTMC-TX1 The University of Vermont Medical Center	VTMC-TX1 The University of Vermont Medical Center;VTMC-TX1 The University of Vermont Medical Center;305;TXC;TXC
+Virginia	VACH-TX1 Children's Hospital of the King's Daughters	VACH-TX1 Children's Hospital of the King's Daughters;VACH-TX1 Children's Hospital of the King's Daughters;305;TXC;TXC
+Virginia	VAFH-TX1 Inova Fairfax Hospital	VAFH-TX1 Inova Fairfax Hospital;VAFH-TX1 Inova Fairfax Hospital;305;TXC;TXC
+Virginia	VAHD-TX1 Henrico Doctors' Hospital	VAHD-TX1 Henrico Doctors' Hospital;VAHD-TX1 Henrico Doctors' Hospital;305;TXC;TXC
+Virginia	VAMC-TX1 VCU Health System Authority, VCUMC	VAMC-TX1 VCU Health System Authority, VCUMC;VAMC-TX1 VCU Health System Authority, VCUMC;305;TXC;TXC
+Virginia	VAMV-TX1 Hunter Holmes McGuire Veterans Administration Medical Center	VAMV-TX1 Hunter Holmes McGuire Veterans Administration Medical Center;VAMV-TX1 Hunter Holmes McGuire Veterans Administration Medical Center;305;TXC;TXC
+Virginia	VANG-TX1 Sentara Norfolk General Hospital	VANG-TX1 Sentara Norfolk General Hospital;VANG-TX1 Sentara Norfolk General Hospital;305;TXC;TXC
+Virginia	VARM-TX1 Carilion Roanoke Memorial Hospital	VARM-TX1 Carilion Roanoke Memorial Hospital;VARM-TX1 Carilion Roanoke Memorial Hospital;305;TXC;TXC
+Virginia	VAUV-TX1 University of Virginia Health Sciences Center	VAUV-TX1 University of Virginia Health Sciences Center;VAUV-TX1 University of Virginia Health Sciences Center;305;TXC;TXC
+Washington	WACH-TX1 Seattle Children's Hospital	WACH-TX1 Seattle Children's Hospital;WACH-TX1 Seattle Children's Hospital;305;TXC;TXC
+Washington	WASH-TX1 Providence Sacred Heart Medical Center & Children's Hospital	WASH-TX1 Providence Sacred Heart Medical Center & Children's Hospital;WASH-TX1 Providence Sacred Heart Medical Center & Children's Hospital;305;TXC;TXC
+Washington	WASM-TX1 Swedish Medical Center	WASM-TX1 Swedish Medical Center;WASM-TX1 Swedish Medical Center;305;TXC;TXC
+Washington	WAUW-TX1 University of Washington Medical Center	WAUW-TX1 University of Washington Medical Center;WAUW-TX1 University of Washington Medical Center;305;TXC;TXC
+Washington	WAVM-TX1 Virginia Mason Medical Center	WAVM-TX1 Virginia Mason Medical Center;WAVM-TX1 Virginia Mason Medical Center;305;TXC;TXC
+West Virginia	WVCA-TX1 Charleston Area Medical Center	WVCA-TX1 Charleston Area Medical Center;WVCA-TX1 Charleston Area Medical Center;305;TXC;TXC
+West Virginia	WVWU-TX1 West Virginia University Hospitals Inc.	WVWU-TX1 West Virginia University Hospitals Inc.;WVWU-TX1 West Virginia University Hospitals Inc.;305;TXC;TXC
+Wisconsin	WICH-TX1 Children's Hospital of Wisconsin	WICH-TX1 Children's Hospital of Wisconsin;WICH-TX1 Children's Hospital of Wisconsin;305;TXC;TXC
+Wisconsin	WIMC-TX1 John L Doyne Hospital and Zalocki Veterans Administration Medical Center	WIMC-TX1 John L Doyne Hospital and Zalocki Veterans Administration Medical Center;WIMC-TX1 John L Doyne Hospital and Zalocki Veterans Administration Medical Center;305;TXC;TXC
+Wisconsin	WISE-TX1 Froedtert Memorial Lutheran Hospital	WISE-TX1 Froedtert Memorial Lutheran Hospital;WISE-TX1 Froedtert Memorial Lutheran Hospital;305;TXC;TXC
+Wisconsin	WISL-TX1 Aurora St. Luke's Medical Center	WISL-TX1 Aurora St. Luke's Medical Center;WISL-TX1 Aurora St. Luke's Medical Center;305;TXC;TXC
+Wisconsin	WIUW-TX1 University of Wisconsin Hospital and Clinics	WIUW-TX1 University of Wisconsin Hospital and Clinics;WIUW-TX1 University of Wisconsin Hospital and Clinics;305;TXC;TXC
