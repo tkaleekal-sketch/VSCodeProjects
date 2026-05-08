@@ -35,7 +35,6 @@ District of Columbia	DCCH-TX1 Children's National Medical Center	DCCH-TX1 Childr
 District of Columbia	DCGU-TX1 Medstar Georgetown Transplant Institute	DCGU-TX1 Medstar Georgetown Transplant Institute;DCGU-TX1 Medstar Georgetown Transplant Institute;305;TXC;TXC
 District of Columbia	DCGW-TX1 George Washington University Hospital	DCGW-TX1 George Washington University Hospital;DCGW-TX1 George Washington University Hospital;305;TXC;TXC
 District of Columbia	DCWH-TX1 Washington Hospital Center	DCWH-TX1 Washington Hospital Center;DCWH-TX1 Washington Hospital Center;305;TXC;TXC
-District of Columbia	DCWR-TX1 Walter Reed National Military Medical Center at Bethesda	DCWR-TX1 Walter Reed National Military Medical Center at Bethesda;DCWR-TX1 Walter Reed National Military Medical Center at Bethesda;305;TXC;TXC
 Florida	FLAC-TX1 Johns Hopkins All Children's Hospital	FLAC-TX1 Johns Hopkins All Children's Hospital;FLAC-TX1 Johns Hopkins All Children's Hospital;305;TXC;TXC
 Florida	FLBC-TX1 Broward Health Medical Center	FLBC-TX1 Broward Health Medical Center;FLBC-TX1 Broward Health Medical Center;305;TXC;TXC
 Florida	FLCC-TX1 Cleveland Clinic Florida Weston	FLCC-TX1 Cleveland Clinic Florida Weston;FLCC-TX1 Cleveland Clinic Florida Weston;305;TXC;TXC
@@ -84,7 +83,6 @@ Massachusetts	MANM-TX1 Tufts Medical Center	MANM-TX1 Tufts Medical Center;MANM-T
 Massachusetts	MAPB-TX1 Brigham and Women's Hospital	MAPB-TX1 Brigham and Women's Hospital;MAPB-TX1 Brigham and Women's Hospital;305;TXC;TXC
 Massachusetts	MAUM-TX1 UMass Memorial Medical Center	MAUM-TX1 UMass Memorial Medical Center;MAUM-TX1 UMass Memorial Medical Center;305;TXC;TXC
 Michigan	MIBH-TX1 Corewell Health William Beaumont University Hospital	MIBH-TX1 Corewell Health William Beaumont University Hospital;MIBH-TX1 Corewell Health William Beaumont University Hospital;305;TXC;TXC
-Michigan	MICH-TX1 Children's Hospital of Michigan	MICH-TX1 Children's Hospital of Michigan;MICH-TX1 Children's Hospital of Michigan;305;TXC;TXC
 Michigan	MIDV-TX1 Corewell Health Helen DeVos Children's Hospital	MIDV-TX1 Corewell Health Helen DeVos Children's Hospital;MIDV-TX1 Corewell Health Helen DeVos Children's Hospital;305;TXC;TXC
 Michigan	MIHF-TX1 Henry Ford Hospital	MIHF-TX1 Henry Ford Hospital;MIHF-TX1 Henry Ford Hospital;305;TXC;TXC
 Michigan	MISH-TX1 Corewell Health Grand Rapids Hospitals	MISH-TX1 Corewell Health Grand Rapids Hospitals;MISH-TX1 Corewell Health Grand Rapids Hospitals;305;TXC;TXC
@@ -127,6 +125,7 @@ New York	NYNY-TX1 New York-Presbyterian Hospital/Weill Cornell Medical Center	NY
 New York	NYSB-TX1 University Hospital of State University of New York at Stony Brook	NYSB-TX1 University Hospital of State University of New York at Stony Brook;NYSB-TX1 University Hospital of State University of New York at Stony Brook;305;TXC;TXC
 New York	NYUC-TX1 NYU Langone Health	NYUC-TX1 NYU Langone Health;NYUC-TX1 NYU Langone Health;305;TXC;TXC
 New York	NYUM-TX1 State University of New York Upstate Medical University	NYUM-TX1 State University of New York Upstate Medical University;NYUM-TX1 State University of New York Upstate Medical University;305;TXC;TXC
+New York	NYVA-TX1 James J. Peters VA Medical Center	NYVA-TX1 James J. Peters VA Medical Center;NYVA-TX1 James J. Peters VA Medical Center;305;TXC;TXC
 New York	NYWC-TX1 Westchester Medical Center	NYWC-TX1 Westchester Medical Center;NYWC-TX1 Westchester Medical Center;305;TXC;TXC
 North Carolina	NCCM-TX1 Carolinas Medical Center	NCCM-TX1 Carolinas Medical Center;NCCM-TX1 Carolinas Medical Center;305;TXC;TXC
 North Carolina	NCDU-TX1 Duke University Hospital	NCDU-TX1 Duke University Hospital;NCDU-TX1 Duke University Hospital;305;TXC;TXC
@@ -170,6 +169,8 @@ South Carolina	SCCH-TX1 MUSC Children's Hospital	SCCH-TX1 MUSC Children's Hospit
 South Carolina	SCLA-TX1 MUSC Lancaster	SCLA-TX1 MUSC Lancaster;SCLA-TX1 MUSC Lancaster;305;TXC;TXC
 South Carolina	SCMU-TX1 Medical University of South Carolina	SCMU-TX1 Medical University of South Carolina;SCMU-TX1 Medical University of South Carolina;305;TXC;TXC
 South Carolina	SCPG-TX1 Prisma Health Greenville Memorial Hospital	SCPG-TX1 Prisma Health Greenville Memorial Hospital;SCPG-TX1 Prisma Health Greenville Memorial Hospital;305;TXC;TXC
+South Dakota	NJSB-TX1 Saint Barnabas Medical Center	NJSB-TX1 Saint Barnabas Medical Center;NJSB-TX1 Saint Barnabas Medical Center;305;TXC;TXC
+South Dakota	SDMK-TX1 Avera McKennan Hospital	SDMK-TX1 Avera McKennan Hospital;SDMK-TX1 Avera McKennan Hospital;305;TXC;TXC
 South Dakota	SDSV-TX1 Sanford Health/USD Medical Center	SDSV-TX1 Sanford Health/USD Medical Center;SDSV-TX1 Sanford Health/USD Medical Center;305;TXC;TXC
 Tennessee	TNEM-TX1 Erlanger Medical Center	TNEM-TX1 Erlanger Medical Center;TNEM-TX1 Erlanger Medical Center;305;TXC;TXC
 Tennessee	TNMH-TX1 Methodist University Hospital	TNMH-TX1 Methodist University Hospital;TNMH-TX1 Methodist University Hospital;305;TXC;TXC

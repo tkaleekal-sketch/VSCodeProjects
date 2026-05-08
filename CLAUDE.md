@@ -18,9 +18,13 @@ npx playwright test
 # Open the HTML test report
 npx playwright show-report
 
-# Run a standalone Node script (scraper/utility)
+# Routine data refresh (run this to update lung-transplants.csv)
 node scripts/scrape-lung-data.js
+
+# Full pipeline refresh (only needed when transplant centers may have changed)
+npx playwright test tests/list-centers.spec.js
 node scripts/filter-lung-centers.js
+node scripts/scrape-lung-data.js
 ```
 
 ## Architecture
@@ -47,6 +51,10 @@ filter-lung-centers.js  →  lung-centers.txt  (216 active lung centers, file li
         ↓
 scrape-lung-data.js  →  lung-transplants.csv
 ```
+
+**When to run each step:**
+- **Step 3 only (`scrape-lung-data.js`)** — routine data refresh. `lung-centers.txt` is stable; transplant center rosters change infrequently. Run this for any regular update.
+- **Steps 1–3 (full pipeline)** — only needed when transplant centers may have been added or removed (e.g., after a HRSA roster update). Steps 1 and 2 together take ~3–4 minutes; Step 3 takes ~2 minutes.
 
 ### Key implementation details
 

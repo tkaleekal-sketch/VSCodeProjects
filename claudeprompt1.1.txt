@@ -1,0 +1,53 @@
+## Session 1.1 — Supplemental Context for Claude Code
+
+This file supplements CLAUDE.md with decisions and findings from the May 7, 2026 session.
+
+---
+
+### Pipeline Run (May 7, 2026)
+
+A full 3-step pipeline was run to produce an updated report:
+- Step 1: list-centers.spec.js → centers.txt (350 centers confirmed, same count as April 30)
+- Step 2: filter-lung-centers.js → lung-centers.txt (216 active lung centers)
+- Step 3: scrape-lung-data.js → lung-transplants.csv (55 centers × 22 years, 2005–2026)
+
+The output CSV is located at lung-transplants.csv in the project root.
+
+---
+
+### Key Decision: Routine vs. Full Refresh
+
+Steps 1 and 2 (list-centers + filter-lung-centers) are NOT needed for routine data updates.
+The transplant center roster changes infrequently. For any regular refresh:
+
+  node scripts/scrape-lung-data.js
+
+Only run the full pipeline (Steps 1–3) if the HRSA center roster may have changed.
+This decision is now reflected in CLAUDE.md under "When to run each step."
+
+---
+
+### Timing Reference
+
+- Step 1 (list-centers.spec.js): ~1.3 minutes
+- Step 2 (filter-lung-centers.js): ~2–3 minutes (4 parallel workers, 350 centers checked)
+- Step 3 (scrape-lung-data.js): ~2 minutes (4 parallel workers, 55 selected centers)
+- Full pipeline: ~5–7 minutes total
+
+---
+
+### Current SELECTED_LINES in scrape-lung-data.js
+
+55 centers are currently selected for scraping. The SELECTED_LINES array in scrape-lung-data.js
+uses file line numbers from lung-centers.txt as seen in a text editor (line 1 = header,
+line 2 = first center). Do not confuse with 0-indexed or array indices.
+
+---
+
+### Output File Status (as of May 7, 2026)
+
+| File               | Last Updated  | Notes                                      |
+|--------------------|---------------|--------------------------------------------|
+| centers.txt        | May 7, 2026   | 350 HRSA transplant centers                |
+| lung-centers.txt   | May 7, 2026   | 216 active lung centers (since 2020)       |
+| lung-transplants.csv | May 7, 2026 | 55 centers, years 2005–2026                |
