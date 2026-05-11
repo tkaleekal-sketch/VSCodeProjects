@@ -36,11 +36,11 @@ This decision is now reflected in CLAUDE.md under "When to run each step."
 
 ---
 
-### Current SELECTED_LINES in scrape-lung-data.js
+### Current SELECTED_CODES in scrape-lung-data.js
 
-55 centers are currently selected for scraping. The SELECTED_LINES array in scrape-lung-data.js
-uses file line numbers from lung-centers.txt as seen in a text editor (line 1 = header,
-line 2 = first center). Do not confuse with 0-indexed or array indices.
+55 centers are currently selected for scraping. The SELECTED_CODES array in scrape-lung-data.js
+uses stable HRSA center codes instead of file line numbers, so a regenerated lung-centers.txt
+cannot shift the selected center set.
 
 ---
 

@@ -1,0 +1,78 @@
+CLAUDE SUMMARY — Lung Transplant Scraper Project
+Generated: 2026-05-11
+Use this file alongside CLAUDE.md to orient a new Claude Code session.
+
+=== PROJECT PURPOSE ===
+Scrape lung transplant volume data from the HRSA UNOS center data portal
+(hrsa.unos.org/data/view-data-reports/center-data/) for a curated set of
+54 transplant centers. Output is lung-transplants.csv (centers as rows,
+years 2026→2005 as columns, "All Birth Sexes" count only).
+
+=== PIPELINE (in order) ===
+1. npx playwright test tests/list-centers.spec.js
+   → writes centers.txt (all ~350 HRSA centers, tab-separated)
+   Run only when HRSA roster may have changed.
+
+2. node scripts/filter-lung-centers.js
+   → reads centers.txt, writes lung-centers.txt (216 active lung centers)
+   Run only when HRSA roster may have changed.
+
+3. node scripts/scrape-lung-data.js
+   → reads lung-centers.txt, writes lung-transplants.csv
+   Run for every routine data refresh (~2 min).
+
+4. node scripts/generate-excel.js
+   → reads lung-transplants.csv, writes Reports/lung-transplants_YYYYMMDD.xlsx
+   Run after each scrape to produce a shareable Excel report.
+
+=== SELECTED CENTERS (SELECTED_CODES in scrape-lung-data.js) ===
+54 stable HRSA center codes: ALUA, AZSJ, AZUA, CACS, CASD, CASF, CASU,
+CAUC, CAUH, COUC, FLFH, FLJM, FLSL, FLTG, FLUF, GAEM, ILLU, ILUC, IAIV,
+KYUK, LAOF, MAMG, MAPB, MIHF, MISH, MIUM, MNMC, MNUM, MOBH, NJBI, NYCP,
+NYMA, NYMS, NYNS, NYUC, NCDU, NCMH, OHCC, OHOU, OKBC, PAPT, PATU, PAUP,
+TNVU, TXHH, TXHI, TXMH, TXSP, TXTX, UTMC, VAFH, WAUW, WISE, WIUW.
+Always identify centers by code, not by line number in lung-centers.txt
+(line order can shift on regeneration).
+
+=== KEY IMPLEMENTATION NOTES ===
+- Table parsing: #reportData header has 2 leading blank tab columns.
+  Do NOT trim() a whole row before splitting — trim cells individually.
+  Header index 3 = most recent year; value row index 3 = matching count.
+- Navigation: State dropdown → Go → Center dropdown → Category (2;Transplant)
+  → Organ (Lung;Lung;8;Organ;Organ) → "Transplants by Recipient Birth Sex"
+  link → wait for #reportData.
+- Concurrency: 4 parallel browser pages. Failed centers (0 years returned)
+  are automatically retried sequentially after the main pass.
+- MIN_YEAR = 2005. Only years >= 2005 are included in CSV/Excel output.
+
+=== EXCEL REPORT (generate-excel.js) ===
+- Output: Reports/lung-transplants_YYYYMMDD.xlsx (datestamp = run date)
+- Sheet row 1: merged title "Center Lung-Transplants To Date (YYYY-MM-DD)"
+- Sheet row 2: column headers (Code, Center Name, year columns)
+- Frozen panes at col 2 / row 2 for easy scrolling
+- Year columns are numeric integers; center name column is wide (48 chars)
+- Uses exceljs npm package (installed as a dependency)
+
+=== DEPENDENCIES ===
+- @playwright/test — browser automation for scraping
+- exceljs — Excel file generation
+- Node.js scripts run with: node scripts/<script>.js
+- Playwright tests run with: npx playwright test tests/<file>.spec.js
+
+=== FILES ===
+centers.txt          — all HRSA centers (step 1 output)
+lung-centers.txt     — 216 active lung centers (step 2 output)
+lung-transplants.csv — scraped data (step 3 output)
+Reports/lung-transplants_YYYYMMDD.xlsx — Excel export (step 4 output)
+scripts/scrape-lung-data.js    — main scraper
+scripts/filter-lung-centers.js — lung center filter
+scripts/generate-excel.js      — Excel report generator
+scripts/diagnose-center.js     — debugging tool (not part of pipeline)
+tests/list-centers.spec.js     — all-centers scraper (Playwright test runner)
+tests/alua.spec.js             — single-center proof of concept
+
+=== RECENT CHANGES (2026-05-11) ===
+- Added scripts/generate-excel.js to produce datestamped Excel reports
+- exceljs added as a project dependency
+- CLAUDE.md updated to document generate-excel.js and new output file format
+- Reports/lung-transplants_20260511.xlsx — first Excel export generated

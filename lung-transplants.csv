@@ -1,56 +1,55 @@
 Code,Center Name,2026,2025,2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005
-ALUA,"ALUA-TX1 University of Alabama Hospital",9,31,18,23,25,27,13,8,19,18,15,17,21,24,18,23,18,12,26,27,34,20
-AZSJ,"AZSJ-TX1 St. Joseph's Hospital and Medical Center",21,80,103,90,78,97,94,119,104,89,114,93,73,70,56,42,32,15,10,11,,
+ALUA,"ALUA-TX1 University of Alabama Hospital",11,31,18,23,25,27,13,8,19,18,15,17,21,24,18,23,18,12,26,27,34,20
+AZSJ,"AZSJ-TX1 St. Joseph's Hospital and Medical Center",30,80,103,90,78,97,94,119,104,89,114,93,73,70,56,42,32,15,10,11,,
 AZUA,"AZUA-TX1 Banner University Medical Center-Tucson",,2,16,15,20,17,36,31,41,28,9,8,,1,2,26,15,14,21,17,17,6
-CACS,"CACS-TX1 Cedars-Sinai Medical Center",25,93,85,80,74,60,18,17,21,15,16,15,22,20,14,15,19,20,17,26,11,16
-CASD,"CASD-TX1 University of California San Diego Medical Center",12,54,50,59,37,46,30,36,23,22,14,20,16,23,16,21,19,15,11,11,14,25
-CASF,"CASF-TX1 University of California San Francisco Medical Center",28,89,101,95,77,74,80,66,54,44,68,45,48,41,36,41,47,33,41,35,29,32
-CASU,"CASU-TX1 Stanford Health Care",24,70,67,72,55,54,59,35,49,58,38,42,31,32,45,45,26,38,42,39,28,12
-CAUC,"CAUC-TX1 University of California at Los Angeles Medical Center",25,83,92,82,72,70,120,91,78,73,103,90,71,79,72,57,50,52,54,59,60,54
-CAUH,"CAUH-TX1 Keck Hospital of USC",9,21,23,27,31,14,33,25,16,13,12,16,16,15,7,8,11,23,20,17,19,37
-COUC,"COUC-TX1 University of Colorado Hospital/Health Science Center",10,46,45,51,40,27,32,44,44,30,27,23,28,30,25,28,27,25,28,37,28,42
-FLHM,"FLHM-TX1 Halifax Health",2,9,3,12,13,20,25,22,12,9,14,9,8,13,17,14,14,7,4,,,
-FLLM,"FLLM-TX1 Largo Medical Center",41,141,146,129,121,72,84,62,56,28,34,7,,,,,,,,,,
-FLTG,"FLTG-TX1 Tampa General Hospital",17,42,42,39,52,48,34,34,43,55,40,43,38,33,36,56,58,38,37,41,36,17
-FLUF,"FLUF-TX1 UF Health Shands Hospital",23,65,73,52,49,68,93,90,70,56,45,37,12,28,28,36,29,32,36,34,53,37
-GAEM,"GAEM-TX1 Emory University Hospital",12,44,29,24,20,14,17,25,9,20,19,20,25,32,34,29,31,35,27,25,27,26
-GAMC,"GAMC-TX1 Wellstar MCG Health, affiliated with Medical College of Georgia",14,60,100,90,88,60,78,93,73,66,65,70,83,72,63,78,91,70,76,110,75,85
-ILMM,"ILMM-TX1 Springfield Memorial Hospital",6,21,25,32,26,24,32,32,26,23,17,23,23,33,30,36,22,4,21,27,40,41
-ILVA,"ILVA-TX1 Edward Hines Jr. Veterans Administration Medical Center",28,108,68,110,64,36,2,,,,,,,,,,,,,,,
-IAVA,"IAVA-TX1 The Iowa City VA Health Care System",2,5,11,9,7,17,20,26,25,23,17,29,36,33,30,35,26,25,27,31,23,20
-LACH,"LACH-TX1 Children's Hospital",5,12,14,15,13,18,12,2,8,6,5,7,12,10,8,13,7,7,8,10,4,9
-LAWK,"LAWK-TX1 Willis-Knighton Medical Center",9,92,90,76,70,70,78,81,67,102,70,45,47,41,46,23,26,75,72,76,55,82
-MANM,"MANM-TX1 Tufts Medical Center",49,178,141,118,118,67,59,70,94,89,92,50,61,43,42,59,55,69,77,86,91,77
-MAUM,"MAUM-TX1 UMass Memorial Medical Center",32,165,131,114,118,120,123,120,108,113,123,102,96,107,114,122,108,101,67,69,55,71
-MISJ,"MISJ-TX1 Ascension St. John Hospital",6,29,30,28,35,26,22,28,43,41,32,39,46,48,52,57,51,55,49,55,50,50
-MISM,"MISM-TX1 Mercy Health Saint Mary's",27,109,109,96,102,90,78,81,103,100,137,86,96,75,82,90,93,92,83,83,62,79
-MNHC,"MNHC-TX1 Hennepin County Medical Center",10,49,49,61,58,53,55,44,54,52,48,47,28,37,53,86,87,88,73,71,93,88
-MOBH,"MOBH-TX1 Barnes-Jewish Hospital",23,67,61,62,60,70,68,103,74,93,83,69,66,58,67,74,53,57,58,53,58,54
-MOCG,"MOCG-TX1 Cardinal Glennon Children's Hospital",3,9,14,10,8,12,6,13,4,4,15,6,10,12,8,15,6,7,9,8,5,13
-MOCH,"MOCH-TX1 St. Louis Children's Hospital at Washington University Medical Center",1,4,2,6,1,4,10,6,7,10,8,5,8,8,7,13,16,19,11,16,12,11
-NJLL,"NJLL-TX1 Virtua Our Lady of Lourdes Hospital",35,139,139,119,83,70,52,57,51,60,56,48,42,46,44,42,35,43,39,40,48,58
-NYEC,"NYEC-TX1 Erie County Medical Center",20,116,143,151,148,147,134,127,144,138,128,102,79,69,72,27,34,41,41,54,45,44
-NYNS,"NYNS-TX1 North Shore University Hospital/Northwell Health",5,27,19,13,6,,,,,,,,,,,,,,,,,
-NYNY,"NYNY-TX1 New York-Presbyterian Hospital/Weill Cornell Medical Center",89,355,415,372,297,334,262,343,307,240,260,245,215,207,215,206,219,245,231,209,238,175
-NYSB,"NYSB-TX1 University Hospital of State University of New York at Stony Brook",20,61,61,64,73,89,88,67,81,80,81,74,64,65,65,57,64,68,79,73,71,70
-NYVA,"NYVA-TX1 James J. Peters VA Medical Center",,16,11,15,11,20,8,8,4,5,1,,,,,,,,,,,
-NCEC,"NCEC-TX1 ECU Health Medical Center",32,105,151,137,114,86,86,83,98,81,72,62,107,93,87,86,72,38,42,37,38,44
-NDMC,"NDMC-TX1 Sanford Bismarck Medical Center",6,10,17,17,16,17,12,19,21,23,18,25,16,15,9,18,11,13,12,21,18,23
-OHCH,"OHCH-TX1 Nationwide Children's Hospital",,,4,2,2,1,,2,1,4,1,3,3,3,3,1,1,2,2,2,4,2
-OHTC,"OHTC-TX1 The Christ Hospital",26,78,82,91,64,60,55,65,56,72,52,36,48,50,59,67,59,42,51,63,53,62
-OKMD,"OKMD-TX1 OU Medical Center",29,77,84,96,97,78,42,64,43,54,61,49,62,56,57,50,30,24,24,24,20,22
-PASC,"PASC-TX1 St. Christopher's Hospital for Children",,2,,1,5,6,2,3,1,,,3,,1,1,3,,4,3,5,5,8
-PAUP,"PAUP-TX1 Hospital of the University of Pennsylvania",8,55,66,57,54,59,62,80,112,83,102,72,42,44,45,51,51,45,43,53,51,59
-PAVA,"PAVA-TX1 VA Pittsburgh Healthcare System",13,59,62,69,53,43,80,84,88,93,95,82,64,88,87,67,64,89,57,66,84,70
-TNUK,"TNUK-TX1 University of Tennessee Medical Center at Knoxville",18,73,68,64,53,57,55,44,52,64,63,47,42,44,51,42,32,41,28,34,55,49
-TNVU,"TNVU-TX1 Vanderbilt University Medical Center",32,149,97,93,67,54,41,38,41,23,20,27,25,24,15,20,24,16,11,8,18,21
-TXFW,"TXFW-TX1 Texas Health Harris Methodist Fort Worth Hospital",12,71,56,43,25,24,27,25,24,41,24,9,,,,19,37,49,41,40,55,39
+CACS,"CACS-TX1 Cedars-Sinai Medical Center",29,93,85,80,74,60,18,17,21,15,16,15,22,20,14,15,19,20,17,26,11,16
+CASD,"CASD-TX1 University of California San Diego Medical Center",14,54,50,59,37,46,30,36,23,22,14,20,16,23,16,21,19,15,11,11,14,25
+CASF,"CASF-TX1 University of California San Francisco Medical Center",34,89,101,95,77,74,80,66,54,44,68,45,48,41,36,41,47,33,41,35,29,32
+CASU,"CASU-TX1 Stanford Health Care",31,70,67,72,55,54,59,35,49,58,38,42,31,32,45,45,26,38,42,39,28,12
+CAUC,"CAUC-TX1 University of California at Los Angeles Medical Center",35,83,92,82,72,70,120,91,78,73,103,90,71,79,72,57,50,52,54,59,60,54
+CAUH,"CAUH-TX1 Keck Hospital of USC",11,21,23,27,31,14,33,25,16,13,12,16,16,15,7,8,11,23,20,17,19,37
+COUC,"COUC-TX1 University of Colorado Hospital/Health Science Center",13,46,45,51,40,27,32,44,44,30,27,23,28,30,25,28,27,25,28,37,28,42
+FLFH,"FLFH-TX1 AdventHealth Orlando",11,31,9,17,13,25,22,16,16,20,18,3,1,14,9,,,,,,,
+FLJM,"FLJM-TX1 Jackson Memorial Hospital University of Miami School of Medicine",28,85,60,79,75,21,19,22,24,10,19,13,1,3,2,12,8,8,4,9,8,9
+FLSL,"FLSL-TX1 Mayo Clinic Hospital Florida",22,69,79,54,37,39,39,48,41,40,43,41,34,42,45,44,44,42,40,35,26,32
+FLTG,"FLTG-TX1 Tampa General Hospital",23,42,42,39,52,48,34,34,43,55,40,43,38,33,36,56,58,38,37,41,36,17
+FLUF,"FLUF-TX1 UF Health Shands Hospital",28,65,73,52,49,68,93,90,70,56,45,37,12,28,28,36,29,32,36,34,53,37
+GAEM,"GAEM-TX1 Emory University Hospital",20,44,29,24,20,14,17,25,9,20,19,20,25,32,34,29,31,35,27,25,27,26
+ILLU,"ILLU-TX1 Loyola University Medical Center",13,34,40,46,48,32,34,47,47,39,40,45,51,30,21,36,39,42,46,39,26,38
+ILUC,"ILUC-TX1 University of Chicago Medical Center",13,24,9,4,9,24,7,13,26,26,17,21,25,22,12,8,13,15,14,15,8,
+IAIV,"IAIV-TX1 University of Iowa Hospitals and Clinics Transplant Programs",7,19,17,18,24,26,23,15,17,11,15,16,12,16,14,14,20,15,12,5,,
+KYUK,"KYUK-TX1 University of Kentucky Medical Center",5,14,9,35,31,25,14,29,20,23,25,9,14,22,18,23,10,11,26,15,12,17
+LAOF,"LAOF-TX1 Ochsner Foundation Hospital",7,14,14,1,2,3,29,28,22,35,28,30,25,21,18,24,15,,,,,8
+MAMG,"MAMG-TX1 Massachusetts General Hospital",17,84,67,52,21,14,32,27,37,36,40,15,15,21,10,10,16,15,7,7,12,7
+MAPB,"MAPB-TX1 Brigham and Women's Hospital",11,56,65,59,35,40,47,45,48,75,49,26,34,20,30,27,34,32,30,22,14,24
+MIHF,"MIHF-TX1 Henry Ford Hospital",10,20,27,30,33,20,22,32,31,26,19,26,16,13,14,8,11,11,12,12,10,7
+MISH,"MISH-TX1 Corewell Health Grand Rapids Hospitals",14,62,51,45,41,40,48,42,31,26,22,26,14,13,,,,,,,,
+MIUM,"MIUM-TX1 University of Michigan Medical Center",7,27,23,24,23,38,55,45,23,24,36,36,28,44,23,22,31,36,31,22,29,32
+MNMC,"MNMC-TX1 Mayo Clinic Hospital Minnesota",20,60,78,69,51,32,7,11,8,11,13,10,11,10,5,15,16,16,13,14,15,12
+MNUM,"MNUM-TX1 University of Minnesota Medical Center, Fairview",20,59,66,41,41,32,34,45,38,54,54,57,52,40,29,22,24,20,27,31,47,45
+MOBH,"MOBH-TX1 Barnes-Jewish Hospital",32,67,61,62,60,70,68,103,74,93,83,69,66,58,67,74,53,57,58,53,58,54
+NJBI,"NJBI-TX1 Newark Beth Israel Medical Center",8,19,16,14,12,10,14,24,15,16,23,10,,2,7,17,6,9,3,,,
+NYCP,"NYCP-TX1 NY Presbyterian Hospital/Columbia Univ. Medical Center",31,101,121,106,102,97,59,83,82,71,65,67,60,62,67,59,51,57,46,55,51,43
+NYMA,"NYMA-TX1 Montefiore Medical Center",5,26,25,17,22,23,26,40,29,5,,,,,,,,,,,,
+NYMS,"NYMS-TX1 Mount Sinai Medical Center",10,24,25,24,15,,,,,,,,,,,,,,5,11,11,9
+NYNS,"NYNS-TX1 North Shore University Hospital/Northwell Health",9,27,19,13,6,,,,,,,,,,,,,,,,,
+NYUC,"NYUC-TX1 NYU Langone Health",29,74,76,74,81,53,28,40,24,,,,,,,,,,,,,
+NCDU,"NCDU-TX1 Duke University Hospital",25,104,94,74,107,108,142,127,97,104,96,106,108,135,108,145,120,93,71,55,60,67
+NCMH,"NCMH-TX1 University of North Carolina Hospitals",,12,7,11,8,14,15,24,18,18,14,10,12,7,11,9,15,16,15,10,14,13
+OHCC,"OHCC-TX1 The Cleveland Clinic Foundation",43,143,139,128,101,95,115,122,113,128,110,92,104,98,100,105,117,154,57,69,62,64
+OHOU,"OHOU-TX1 Ohio State University Medical Center",21,75,70,54,57,76,68,60,50,42,34,33,18,4,,,,2,1,7,4,11
+OKBC,"OKBC-TX1 Integris Baptist Medical Center",10,22,24,21,11,13,19,28,36,28,31,22,20,15,17,17,12,14,13,10,9,18
+PAPT,"PAPT-TX1 University of Pittsburgh Medical Center",17,59,49,58,52,48,74,84,92,59,66,68,86,100,100,108,131,122,118,123,93,87
+PATU,"PATU-TX1 Temple University Hospital",47,178,133,110,124,124,131,145,144,131,101,72,56,27,14,5,11,26,39,35,9,15
+PAUP,"PAUP-TX1 Hospital of the University of Pennsylvania",10,55,66,57,54,59,62,80,112,83,102,72,42,44,45,51,51,45,43,53,51,59
+TNVU,"TNVU-TX1 Vanderbilt University Medical Center",48,149,97,93,67,54,41,38,41,23,20,27,25,24,15,20,24,16,11,8,18,21
 TXHH,"TXHH-TX1 Memorial Hermann Hospital, University of Texas at Houston",5,14,13,23,10,20,20,8,5,7,9,1,,,,,,,,,,
-TXMC,"TXMC-TX1 Methodist Dallas Medical Center",67,224,251,185,226,186,185,201,156,161,139,129,112,105,97,111,132,123,160,147,142,104
-TXPM,"TXPM-TX1 Parkland Health and Hospital System",15,34,38,51,32,10,5,10,11,4,17,12,23,24,22,18,23,27,42,43,29,18
-TXTC,"TXTC-TX1 Texas Children's Hospital",,7,8,5,7,8,10,14,12,10,8,8,16,18,11,13,15,12,14,10,15,14
-UTLD,"UTLD-TX1 Intermountain Medical Center",118,515,489,414,300,283,238,198,147,172,138,124,152,158,114,147,141,129,159,151,163,147
-VACH,"VACH-TX1 Children's Hospital of the King's Daughters",2,3,8,6,4,4,7,7,5,4,5,3,4,5,4,4,5,6,6,6,4,9
-WASM,"WASM-TX1 Swedish Medical Center",56,235,203,204,156,142,140,152,144,118,121,118,125,101,100,86,109,68,72,97,76,82
-WVWU,"WVWU-TX1 West Virginia University Hospitals Inc.",4,21,13,19,36,24,18,2,,,,,,,,,,,,,8,1
-WISE,"WISE-TX1 Froedtert Memorial Lutheran Hospital",7,22,1,6,21,3,,3,13,11,9,13,10,11,4,,2,4,,4,3,5
+TXHI,"TXHI-TX1 CHI St. Luke's Health Baylor College of Medicine Medical Center",35,102,108,73,64,71,44,46,38,58,32,15,22,18,14,6,9,9,3,9,5,4
+TXMH,"TXMH-TX1 Houston Methodist Hospital",29,83,90,81,68,71,61,61,65,73,61,75,100,98,143,108,105,79,51,40,36,22
+TXSP,"TXSP-TX1 UT Southwestern Medical Center/William P. Clements Jr. University Hospital",20,69,71,68,58,55,46,63,68,78,77,63,62,66,65,50,24,13,21,18,14,21
+TXTX,"TXTX-TX1 Baylor University Medical Center",15,41,43,31,31,23,36,33,42,41,40,31,36,29,16,29,11,9,8,14,12,20
+UTMC,"UTMC-TX1 University of Utah Medical Center",10,50,36,31,36,19,10,9,17,22,13,17,15,16,10,13,9,6,6,14,4,6
+VAFH,"VAFH-TX1 Inova Fairfax Hospital",13,59,49,46,39,29,27,32,26,23,21,19,27,28,24,19,24,26,21,23,36,17
+WAUW,"WAUW-TX1 University of Washington Medical Center",17,64,61,59,48,53,56,60,51,50,52,53,44,56,41,46,52,46,46,52,52,42
+WISE,"WISE-TX1 Froedtert Memorial Lutheran Hospital",10,22,1,6,21,3,,3,13,11,9,13,10,11,4,,2,4,,4,3,5
+WIUW,"WIUW-TX1 University of Wisconsin Hospital and Clinics",24,66,57,56,42,36,31,44,20,27,28,27,32,37,36,34,37,38,34,25,29,43

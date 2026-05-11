@@ -10,5 +10,8 @@
   "type": "commonjs",
   "devDependencies": {
     "@playwright/test": "^1.58.2"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
   }
 }

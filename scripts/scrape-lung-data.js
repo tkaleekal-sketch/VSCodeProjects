@@ -4,25 +4,38 @@ const path = require('path');
 
 const CONCURRENCY = 4;
 const MIN_YEAR = 2005;
-const SELECTED_LINES = new Set([3,7,8,13,22,23,26,27,28,30,42,45,49,50,51,52,56,60,65,70,72,82,84,89,90,93,96,97,98,109,119,123,124,125,128,132,134,137,141,145,161,163,164,178,179,190,191,195,198,200,204,208,212,216,217]);
+// Authoritative list sourced from Reports/lung-transplants.xlsx — update that
+// file first, then copy the Code column here to keep the two in sync.
+const SELECTED_CODES = [
+  'ALUA', 'AZSJ', 'AZUA', 'CACS', 'CASD', 'CASF', 'CASU', 'CAUC', 'CAUH',
+  'COUC', 'FLFH', 'FLJM', 'FLSL', 'FLTG', 'FLUF', 'GAEM', 'ILLU', 'ILUC',
+  'IAIV', 'KYUK', 'LAOF', 'MAMG', 'MAPB', 'MIHF', 'MISH', 'MIUM', 'MNMC',
+  'MNUM', 'MOBH', 'NJBI', 'NYCP', 'NYMA', 'NYMS', 'NYNS', 'NYUC', 'NCDU',
+  'NCMH', 'OHCC', 'OHOU', 'OKBC', 'PAPT', 'PATU', 'PAUP', 'TNVU', 'TXHH',
+  'TXHI', 'TXMH', 'TXSP', 'TXTX', 'UTMC', 'VAFH', 'WAUW', 'WISE', 'WIUW',
+];
 
 function loadCenters() {
-  // Keep header: file line 1 = header, line 2 = first center.
-  // SELECTED_LINES contains file line numbers (as seen in the IDE).
   const lines = fs.readFileSync(
     path.join(__dirname, '..', 'lung-centers.txt'), 'utf8'
   ).split('\n').filter(Boolean);
 
-  return lines
-    .map((line, i) => {
-      const fileLineNum = i + 1;
-      if (fileLineNum === 1) return null; // skip header
-      if (!SELECTED_LINES.has(fileLineNum)) return null;
-      const [state, label, value] = line.split('\t');
-      const code = label.split('-TX1')[0].trim();
-      return { lineNum: fileLineNum, code, state, label, value };
-    })
-    .filter(Boolean);
+  const centersByCode = new Map(
+    lines
+      .slice(1)
+      .map(line => {
+        const [state, label, value] = line.split('\t');
+        const code = label.split('-TX1')[0].trim();
+        return [code, { code, state, label, value }];
+      })
+  );
+
+  const missingCodes = SELECTED_CODES.filter(code => !centersByCode.has(code));
+  if (missingCodes.length > 0) {
+    throw new Error(`Selected center code(s) not found in lung-centers.txt: ${missingCodes.join(', ')}`);
+  }
+
+  return SELECTED_CODES.map(code => centersByCode.get(code));
 }
 
 const CENTERS = loadCenters();
