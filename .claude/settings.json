@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(node -e ' *)",
+      "Bash(npm install *)",
+      "Bash(node scripts/generate-excel.js)",
+      "Bash(git commit -m ' *)",
+      "ClaudeInChromeDomain(www.srtr.org)",
+      "mcp__claude-in-chrome__tabs_context_mcp"
+    ]
+  }
+}

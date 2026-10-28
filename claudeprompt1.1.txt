@@ -1,5 +1,8 @@
 ## Session 1.1 — Supplemental Context for Claude Code
 
+> HISTORICAL (May 7, 2026). Superseded by CLAUDE.md and claudesummary.txt.
+> The center count below (55) is stale — SELECTED_CODES has held 54 codes since 2026-05-11.
+
 This file supplements CLAUDE.md with decisions and findings from the May 7, 2026 session.
 
 ---

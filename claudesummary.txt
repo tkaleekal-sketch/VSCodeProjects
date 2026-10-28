@@ -1,5 +1,5 @@
 CLAUDE SUMMARY — Lung Transplant Scraper Project
-Generated: 2026-05-11
+Generated: 2026-05-11, updated: 2026-10-28
 Use this file alongside CLAUDE.md to orient a new Claude Code session.
 
 === PROJECT PURPOSE ===
@@ -14,7 +14,8 @@ years 2026→2005 as columns, "All Birth Sexes" count only).
    Run only when HRSA roster may have changed.
 
 2. node scripts/filter-lung-centers.js
-   → reads centers.txt, writes lung-centers.txt (216 active lung centers)
+   → reads centers.txt, writes lung-centers.txt (217 rows / 216 unique
+     active lung centers; NJSB is listed under both NJ and SD by HRSA)
    Run only when HRSA roster may have changed.
 
 3. node scripts/scrape-lung-data.js
@@ -61,9 +62,12 @@ Always identify centers by code, not by line number in lung-centers.txt
 
 === FILES ===
 centers.txt          — all HRSA centers (step 1 output)
-lung-centers.txt     — 216 active lung centers (step 2 output)
+lung-centers.txt     — 216 unique active lung centers, 217 rows (step 2 output)
 lung-transplants.csv — scraped data (step 3 output)
 Reports/lung-transplants_YYYYMMDD.xlsx — Excel export (step 4 output)
+Reports/lung-transplants.xlsx — hand-maintained authoritative center list (source of SELECTED_CODES)
+Reports/LungTransplant_Analytics_2026*.pptx/.pdf — hand-built analytics decks (not script output)
+AGENTS.md            — mirror of CLAUDE.md for other coding agents (keep in sync)
 scripts/scrape-lung-data.js    — main scraper
 scripts/filter-lung-centers.js — lung center filter
 scripts/generate-excel.js      — Excel report generator
@@ -76,3 +80,26 @@ tests/alua.spec.js             — single-center proof of concept
 - exceljs added as a project dependency
 - CLAUDE.md updated to document generate-excel.js and new output file format
 - Reports/lung-transplants_20260511.xlsx — first Excel export generated
+
+=== DATA CURRENCY ===
+- centers.txt / lung-centers.txt: last regenerated 2026-05-07
+- lung-transplants.csv: re-scraped 2026-10-26; 2026 column = Jan 1–Sep 30, 2026
+  (OPTN data as of Oct 25, 2026). Only the 2026 column changed vs. May.
+- HRSA publishes with ~1 month lag; the current-year column is always partial.
+
+=== RECENT CHANGES (2026-10-26) ===
+- Re-scraped all 54 centers; Reports/lung-transplants_20261026.xlsx generated
+- Added Reports/LungTransplant_Analytics_2026_Oct2026_update.pptx/.pdf
+  (20 slides; built from the CSV + user-supplied SRTR PSR Jul 2026, Oct 4
+  rolling reports, Jan–Aug 2026 offer acceptance, UNOS Benchmark Oct 2026).
+  Future deck refreshes start from the Oct file, not the April original.
+- SRTR PDF links redirect to srtr.hrsa.gov and 404 on direct fetch — ask the
+  user to upload new PSR / rolling reports.
+- Open item: add MUSC, Methodist Memphis, Jewish Louisville, Cleveland Clinic
+  FL, Wellstar MCG to SELECTED_CODES for a complete Southeast peer set.
+- Next SRTR surveillance checkpoint: Jan 2027 report.
+
+=== RECENT CHANGES (2026-10-28) ===
+- CLAUDE.md / AGENTS.md / README.md / this file brought current (counts,
+  4-step pipeline incl. generate-excel, Reports/ inventory, data currency).
+
